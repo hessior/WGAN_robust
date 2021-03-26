@@ -1,0 +1,2415 @@
+N=1000, p=10, model=Cauchy in progress.
+sample cov error: 3331.3031
+generator loss: 0.5955, discriminator loss: -0.1081
+generator loss: 0.5370, discriminator loss: -0.0512
+generator loss: 0.5699, discriminator loss: -0.0872
+generator loss: 0.5392, discriminator loss: -0.0504
+generator loss: 0.5768, discriminator loss: -0.0823
+generator loss: 0.5403, discriminator loss: -0.0453
+generator loss: 0.5981, discriminator loss: -0.1014
+generator loss: 0.5454, discriminator loss: -0.0614
+generator loss: 0.5264, discriminator loss: -0.0441
+generator loss: 0.5841, discriminator loss: -0.1015
+wgan error: 3.3175
+generator loss: 0.0256, discriminator loss: -0.0785
+generator loss: -0.0072, discriminator loss: -0.0470
+generator loss: -0.0637, discriminator loss: 0.0107
+generator loss: -0.0032, discriminator loss: -0.0505
+generator loss: 0.0212, discriminator loss: -0.0744
+generator loss: -0.0038, discriminator loss: -0.0494
+generator loss: -0.0427, discriminator loss: -0.0079
+generator loss: 0.0563, discriminator loss: -0.1045
+generator loss: -0.0205, discriminator loss: -0.0282
+generator loss: -0.0374, discriminator loss: -0.0125
+wgan error: 3.4443
+generator loss: 0.0463, discriminator loss: -0.0877
+generator loss: 0.0284, discriminator loss: -0.0667
+generator loss: -0.0049, discriminator loss: -0.0294
+generator loss: -0.0146, discriminator loss: -0.0168
+generator loss: 0.0315, discriminator loss: -0.0623
+generator loss: 0.0155, discriminator loss: -0.0481
+generator loss: 0.0149, discriminator loss: -0.0473
+generator loss: 0.0220, discriminator loss: -0.0550
+generator loss: 0.0031, discriminator loss: -0.0351
+generator loss: 0.1000, discriminator loss: -0.1320
+wgan error: 2.4486
+generator loss: -0.0311, discriminator loss: -0.0646
+generator loss: -0.0765, discriminator loss: -0.0220
+generator loss: -0.0300, discriminator loss: -0.0684
+generator loss: -0.0002, discriminator loss: -0.0994
+generator loss: -0.0518, discriminator loss: -0.0412
+generator loss: -0.0481, discriminator loss: -0.0448
+generator loss: -0.0265, discriminator loss: -0.0611
+generator loss: -0.0389, discriminator loss: -0.0474
+generator loss: 0.0151, discriminator loss: -0.1021
+generator loss: 0.0094, discriminator loss: -0.0960
+wgan error: 2.1319
+generator loss: 0.4975, discriminator loss: -0.0228
+generator loss: 0.5242, discriminator loss: -0.0470
+generator loss: 0.4998, discriminator loss: -0.0263
+generator loss: 0.5305, discriminator loss: -0.0562
+generator loss: 0.5247, discriminator loss: -0.0439
+generator loss: 0.4711, discriminator loss: 0.0029
+generator loss: 0.5842, discriminator loss: -0.1021
+generator loss: 0.5712, discriminator loss: -0.0889
+generator loss: 0.5135, discriminator loss: -0.0332
+generator loss: 0.5478, discriminator loss: -0.0708
+wgan error: 2.9295
+generator loss: -0.4423, discriminator loss: -0.0761
+generator loss: -0.4607, discriminator loss: -0.0688
+generator loss: -0.5422, discriminator loss: -0.0093
+generator loss: -0.5263, discriminator loss: -0.0300
+generator loss: -0.4742, discriminator loss: -0.0659
+generator loss: -0.4680, discriminator loss: -0.0731
+generator loss: -0.5454, discriminator loss: 0.0091
+generator loss: -0.4180, discriminator loss: -0.0976
+generator loss: -0.4623, discriminator loss: -0.0813
+generator loss: -0.4950, discriminator loss: -0.0493
+wgan error: 1.8616
+generator loss: -0.3667, discriminator loss: -0.0390
+generator loss: -0.4255, discriminator loss: -0.0263
+generator loss: -0.4006, discriminator loss: -0.0587
+generator loss: -0.4204, discriminator loss: -0.0310
+generator loss: -0.4129, discriminator loss: -0.0466
+generator loss: -0.4369, discriminator loss: -0.0437
+generator loss: -0.4610, discriminator loss: -0.0272
+generator loss: -0.4017, discriminator loss: -0.0839
+generator loss: -0.4482, discriminator loss: -0.0338
+generator loss: -0.4119, discriminator loss: -0.0770
+wgan error: 3.2578
+generator loss: 0.0066, discriminator loss: -0.0405
+generator loss: 0.0088, discriminator loss: -0.0434
+generator loss: 0.0374, discriminator loss: -0.0767
+generator loss: 0.0314, discriminator loss: -0.0644
+generator loss: -0.0025, discriminator loss: -0.0317
+generator loss: 0.0537, discriminator loss: -0.0746
+generator loss: 0.0406, discriminator loss: -0.0626
+generator loss: 0.0640, discriminator loss: -0.0808
+generator loss: 0.0148, discriminator loss: -0.0273
+generator loss: 0.0706, discriminator loss: -0.0762
+wgan error: 1.6308
+generator loss: -0.3023, discriminator loss: -0.0413
+generator loss: -0.3292, discriminator loss: -0.0239
+generator loss: -0.3104, discriminator loss: -0.0376
+generator loss: -0.3088, discriminator loss: -0.0466
+generator loss: -0.3198, discriminator loss: -0.0294
+generator loss: -0.3032, discriminator loss: -0.0317
+generator loss: -0.3146, discriminator loss: -0.0177
+generator loss: -0.2955, discriminator loss: -0.0377
+generator loss: -0.2897, discriminator loss: -0.0449
+generator loss: -0.3244, discriminator loss: -0.0366
+wgan error: 1.7692
+generator loss: -0.0004, discriminator loss: -0.0064
+generator loss: -0.0000, discriminator loss: -0.0066
+generator loss: -0.0003, discriminator loss: -0.0065
+generator loss: -0.0000, discriminator loss: -0.0062
+generator loss: -0.0003, discriminator loss: -0.0070
+generator loss: -0.0013, discriminator loss: -0.0059
+generator loss: -0.0001, discriminator loss: -0.0062
+generator loss: 0.0000, discriminator loss: -0.0069
+generator loss: -0.0001, discriminator loss: -0.0068
+generator loss: -0.0001, discriminator loss: -0.0076
+wgan error: 52.3495
+(1000, 10, 'Cauchy') 3331.3031
+(1000, 10, 'Cauchy') 7.5140 14.9590
+N=1000, p=10, model=Cauchy in done.(20.66 minutes)
+N=1000, p=10, model=Normal in progress.
+sample cov error: 23.4328
+generator loss: 0.0410, discriminator loss: -0.0989
+generator loss: -0.0038, discriminator loss: -0.0535
+generator loss: -0.0028, discriminator loss: -0.0511
+generator loss: -0.0126, discriminator loss: -0.0430
+generator loss: 0.0204, discriminator loss: -0.0763
+generator loss: 0.0233, discriminator loss: -0.0816
+generator loss: 0.0305, discriminator loss: -0.0902
+generator loss: 0.0145, discriminator loss: -0.0741
+generator loss: -0.0112, discriminator loss: -0.0492
+generator loss: -0.0344, discriminator loss: -0.0289
+wgan error: 3.2197
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+wgan error: 2.1439
+generator loss: 0.5864, discriminator loss: -0.0149
+generator loss: 0.6045, discriminator loss: -0.0348
+generator loss: 0.6211, discriminator loss: -0.0553
+generator loss: 0.6295, discriminator loss: -0.0650
+generator loss: 0.5983, discriminator loss: -0.0348
+generator loss: 0.5892, discriminator loss: -0.0239
+generator loss: 0.5931, discriminator loss: -0.0256
+generator loss: 0.6178, discriminator loss: -0.0512
+generator loss: 0.6102, discriminator loss: -0.0371
+generator loss: 0.5878, discriminator loss: -0.0140
+wgan error: 5.8004
+generator loss: 0.1174, discriminator loss: -0.0926
+generator loss: 0.0993, discriminator loss: -0.0709
+generator loss: 0.0488, discriminator loss: -0.0160
+generator loss: 0.1188, discriminator loss: -0.0863
+generator loss: 0.0823, discriminator loss: -0.0524
+generator loss: 0.0957, discriminator loss: -0.0657
+generator loss: 0.0623, discriminator loss: -0.0333
+generator loss: 0.0810, discriminator loss: -0.0530
+generator loss: 0.0797, discriminator loss: -0.0501
+generator loss: 0.1311, discriminator loss: -0.1045
+wgan error: 3.7729
+generator loss: 0.1914, discriminator loss: -0.0491
+generator loss: 0.1803, discriminator loss: -0.0318
+generator loss: 0.1624, discriminator loss: -0.0103
+generator loss: 0.1879, discriminator loss: -0.0321
+generator loss: 0.1885, discriminator loss: -0.0300
+generator loss: 0.2121, discriminator loss: -0.0627
+generator loss: 0.1879, discriminator loss: -0.0350
+generator loss: 0.1933, discriminator loss: -0.0382
+generator loss: 0.2183, discriminator loss: -0.0698
+generator loss: 0.1754, discriminator loss: -0.0277
+wgan error: 4.1825
+generator loss: -0.4493, discriminator loss: -0.0272
+generator loss: -0.4311, discriminator loss: -0.0415
+generator loss: -0.4127, discriminator loss: -0.0583
+generator loss: -0.4254, discriminator loss: -0.0386
+generator loss: -0.4504, discriminator loss: -0.0082
+generator loss: -0.3939, discriminator loss: -0.0575
+generator loss: -0.3748, discriminator loss: -0.0709
+generator loss: -0.4064, discriminator loss: -0.0327
+generator loss: -0.3822, discriminator loss: -0.0518
+generator loss: -0.4106, discriminator loss: -0.0188
+wgan error: 5.2166
+generator loss: -0.0837, discriminator loss: 0.0069
+generator loss: -0.0375, discriminator loss: -0.0416
+generator loss: -0.1022, discriminator loss: 0.0184
+generator loss: -0.0888, discriminator loss: 0.0018
+generator loss: -0.0752, discriminator loss: -0.0168
+generator loss: -0.0500, discriminator loss: -0.0445
+generator loss: -0.0575, discriminator loss: -0.0346
+generator loss: -0.0302, discriminator loss: -0.0530
+generator loss: -0.0876, discriminator loss: -0.0069
+generator loss: -0.0358, discriminator loss: -0.0591
+wgan error: 3.1721
+generator loss: 0.0143, discriminator loss: -0.0520
+generator loss: 0.0233, discriminator loss: -0.0630
+generator loss: 0.0232, discriminator loss: -0.0623
+generator loss: 0.0243, discriminator loss: -0.0702
+generator loss: -0.0337, discriminator loss: -0.0161
+generator loss: 0.0118, discriminator loss: -0.0619
+generator loss: -0.0098, discriminator loss: -0.0393
+generator loss: -0.0007, discriminator loss: -0.0536
+generator loss: -0.0510, discriminator loss: -0.0048
+generator loss: -0.0252, discriminator loss: -0.0316
+wgan error: 2.5945
+generator loss: 0.0727, discriminator loss: -0.0121
+generator loss: 0.0978, discriminator loss: -0.0344
+generator loss: 0.1227, discriminator loss: -0.0584
+generator loss: 0.1251, discriminator loss: -0.0670
+generator loss: 0.1270, discriminator loss: -0.0648
+generator loss: 0.1014, discriminator loss: -0.0390
+generator loss: 0.0999, discriminator loss: -0.0393
+generator loss: 0.0884, discriminator loss: -0.0288
+generator loss: 0.0592, discriminator loss: -0.0012
+generator loss: 0.1336, discriminator loss: -0.0789
+wgan error: 2.7823
+generator loss: 0.0124, discriminator loss: -0.0468
+generator loss: -0.0001, discriminator loss: -0.0361
+generator loss: -0.0340, discriminator loss: -0.0008
+generator loss: 0.0113, discriminator loss: -0.0428
+generator loss: 0.0038, discriminator loss: -0.0346
+generator loss: 0.0052, discriminator loss: -0.0321
+generator loss: 0.0104, discriminator loss: -0.0349
+generator loss: -0.0053, discriminator loss: -0.0134
+generator loss: 0.0272, discriminator loss: -0.0411
+generator loss: -0.0028, discriminator loss: -0.0050
+wgan error: 3.3430
+(1000, 10, 'Normal') 23.4328
+(1000, 10, 'Normal') 3.6228 1.0960
+N=1000, p=10, model=Normal in done.(20.63 minutes)
+N=1000, p=10, model=Gumbel in progress.
+sample cov error: 13.6526
+generator loss: 0.5417, discriminator loss: -0.0431
+generator loss: 0.5485, discriminator loss: -0.0504
+generator loss: 0.5365, discriminator loss: -0.0371
+generator loss: 0.5588, discriminator loss: -0.0601
+generator loss: 0.5393, discriminator loss: -0.0326
+generator loss: 0.5656, discriminator loss: -0.0584
+generator loss: 0.5295, discriminator loss: -0.0181
+generator loss: 0.5389, discriminator loss: -0.0293
+generator loss: 0.5080, discriminator loss: 0.0019
+generator loss: 0.5425, discriminator loss: -0.0314
+wgan error: 2.8061
+generator loss: -0.3466, discriminator loss: -0.0261
+generator loss: -0.3188, discriminator loss: -0.0499
+generator loss: -0.3376, discriminator loss: -0.0393
+generator loss: -0.3479, discriminator loss: -0.0406
+generator loss: -0.3945, discriminator loss: 0.0015
+generator loss: -0.3787, discriminator loss: -0.0178
+generator loss: -0.3619, discriminator loss: -0.0330
+generator loss: -0.3883, discriminator loss: -0.0123
+generator loss: -0.3726, discriminator loss: -0.0284
+generator loss: -0.3577, discriminator loss: -0.0470
+wgan error: 4.1043
+generator loss: -0.5365, discriminator loss: -0.0164
+generator loss: -0.5423, discriminator loss: -0.0089
+generator loss: -0.5612, discriminator loss: 0.0126
+generator loss: -0.5447, discriminator loss: -0.0049
+generator loss: -0.5569, discriminator loss: 0.0060
+generator loss: -0.5449, discriminator loss: -0.0059
+generator loss: -0.4976, discriminator loss: -0.0560
+generator loss: -0.5590, discriminator loss: 0.0133
+generator loss: -0.5183, discriminator loss: -0.0307
+generator loss: -0.4505, discriminator loss: -0.0968
+wgan error: 2.1156
+generator loss: -0.3661, discriminator loss: -0.0301
+generator loss: -0.3966, discriminator loss: 0.0042
+generator loss: -0.3707, discriminator loss: -0.0185
+generator loss: -0.3519, discriminator loss: -0.0323
+generator loss: -0.3824, discriminator loss: -0.0104
+generator loss: -0.3416, discriminator loss: -0.0515
+generator loss: -0.3512, discriminator loss: -0.0434
+generator loss: -0.3720, discriminator loss: -0.0218
+generator loss: -0.3800, discriminator loss: -0.0210
+generator loss: -0.3888, discriminator loss: -0.0072
+wgan error: 2.4573
+generator loss: 0.0491, discriminator loss: -0.0115
+generator loss: 0.1010, discriminator loss: -0.0651
+generator loss: 0.0623, discriminator loss: -0.0269
+generator loss: 0.0456, discriminator loss: -0.0133
+generator loss: 0.0447, discriminator loss: -0.0149
+generator loss: 0.0578, discriminator loss: -0.0291
+generator loss: 0.0329, discriminator loss: -0.0067
+generator loss: 0.0599, discriminator loss: -0.0346
+generator loss: 0.0943, discriminator loss: -0.0711
+generator loss: 0.0736, discriminator loss: -0.0527
+wgan error: 3.9102
+generator loss: -0.5110, discriminator loss: -0.0224
+generator loss: -0.5465, discriminator loss: 0.0143
+generator loss: -0.5160, discriminator loss: -0.0157
+generator loss: -0.6186, discriminator loss: 0.0867
+generator loss: -0.4960, discriminator loss: -0.0391
+generator loss: -0.5656, discriminator loss: 0.0277
+generator loss: -0.4746, discriminator loss: -0.0716
+generator loss: -0.5485, discriminator loss: -0.0017
+generator loss: -0.5391, discriminator loss: -0.0101
+generator loss: -0.5304, discriminator loss: -0.0208
+wgan error: 2.5374
+generator loss: -0.5074, discriminator loss: 0.0081
+generator loss: -0.5044, discriminator loss: 0.0026
+generator loss: -0.4953, discriminator loss: -0.0058
+generator loss: -0.4885, discriminator loss: -0.0159
+generator loss: -0.4660, discriminator loss: -0.0418
+generator loss: -0.4724, discriminator loss: -0.0332
+generator loss: -0.4978, discriminator loss: -0.0089
+generator loss: -0.4847, discriminator loss: -0.0197
+generator loss: -0.4594, discriminator loss: -0.0429
+generator loss: -0.4406, discriminator loss: -0.0596
+wgan error: 2.8726
+generator loss: -0.4510, discriminator loss: -0.0499
+generator loss: -0.4769, discriminator loss: -0.0248
+generator loss: -0.4223, discriminator loss: -0.0796
+generator loss: -0.4672, discriminator loss: -0.0374
+generator loss: -0.4834, discriminator loss: -0.0219
+generator loss: -0.4884, discriminator loss: -0.0196
+generator loss: -0.4817, discriminator loss: -0.0275
+generator loss: -0.5288, discriminator loss: 0.0168
+generator loss: -0.4425, discriminator loss: -0.0698
+generator loss: -0.5034, discriminator loss: -0.0090
+wgan error: 2.8326
+generator loss: 0.5621, discriminator loss: -0.0299
+generator loss: 0.5964, discriminator loss: -0.0617
+generator loss: 0.5723, discriminator loss: -0.0364
+generator loss: 0.5406, discriminator loss: -0.0098
+generator loss: 0.5602, discriminator loss: -0.0291
+generator loss: 0.5758, discriminator loss: -0.0493
+generator loss: 0.5838, discriminator loss: -0.0589
+generator loss: 0.5184, discriminator loss: 0.0036
+generator loss: 0.5695, discriminator loss: -0.0483
+generator loss: 0.5518, discriminator loss: -0.0270
+wgan error: 4.0211
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+wgan error: 3.4400
+(1000, 10, 'Gumbel') 13.6526
+(1000, 10, 'Gumbel') 3.1097 0.6735
+N=1000, p=10, model=Gumbel in done.(20.76 minutes)
+N=1000, p=20, model=Cauchy in progress.
+sample cov error: 9317.2763
+generator loss: 0.3055, discriminator loss: -0.0204
+generator loss: 0.3475, discriminator loss: -0.0624
+generator loss: 0.3225, discriminator loss: -0.0374
+generator loss: 0.3172, discriminator loss: -0.0353
+generator loss: 0.3074, discriminator loss: -0.0256
+generator loss: 0.3189, discriminator loss: -0.0373
+generator loss: 0.3312, discriminator loss: -0.0510
+generator loss: 0.2615, discriminator loss: 0.0158
+generator loss: 0.2646, discriminator loss: 0.0126
+generator loss: 0.3264, discriminator loss: -0.0579
+wgan error: 2.6618
+generator loss: -0.5290, discriminator loss: -0.0290
+generator loss: -0.4870, discriminator loss: -0.0666
+generator loss: -0.4883, discriminator loss: -0.0676
+generator loss: -0.5318, discriminator loss: -0.0215
+generator loss: -0.5645, discriminator loss: 0.0137
+generator loss: -0.4904, discriminator loss: -0.0593
+generator loss: -0.4809, discriminator loss: -0.0699
+generator loss: -0.5059, discriminator loss: -0.0420
+generator loss: -0.4838, discriminator loss: -0.0657
+generator loss: -0.4911, discriminator loss: -0.0536
+wgan error: 3.2298
+generator loss: 0.1446, discriminator loss: -0.0616
+generator loss: 0.0835, discriminator loss: -0.0003
+generator loss: 0.0651, discriminator loss: 0.0197
+generator loss: 0.1452, discriminator loss: -0.0641
+generator loss: 0.0973, discriminator loss: -0.0158
+generator loss: 0.1172, discriminator loss: -0.0377
+generator loss: 0.0992, discriminator loss: -0.0209
+generator loss: 0.1977, discriminator loss: -0.1248
+generator loss: 0.0758, discriminator loss: -0.0012
+generator loss: 0.0967, discriminator loss: -0.0250
+wgan error: 5.2642
+generator loss: -0.3159, discriminator loss: -0.0389
+generator loss: -0.3193, discriminator loss: -0.0367
+generator loss: -0.3471, discriminator loss: -0.0088
+generator loss: -0.3057, discriminator loss: -0.0486
+generator loss: -0.3211, discriminator loss: -0.0316
+generator loss: -0.3395, discriminator loss: -0.0079
+generator loss: -0.3269, discriminator loss: -0.0212
+generator loss: -0.3272, discriminator loss: -0.0202
+generator loss: -0.2971, discriminator loss: -0.0470
+generator loss: -0.3135, discriminator loss: -0.0313
+wgan error: 4.3271
+generator loss: -0.0194, discriminator loss: -0.0111
+generator loss: 0.0322, discriminator loss: -0.0617
+generator loss: 0.0089, discriminator loss: -0.0338
+generator loss: 0.0219, discriminator loss: -0.0475
+generator loss: -0.0214, discriminator loss: -0.0028
+generator loss: -0.0174, discriminator loss: -0.0078
+generator loss: -0.0093, discriminator loss: -0.0140
+generator loss: 0.0292, discriminator loss: -0.0519
+generator loss: -0.0214, discriminator loss: -0.0019
+generator loss: -0.0325, discriminator loss: 0.0011
+wgan error: 3.6574
+generator loss: 0.0164, discriminator loss: -0.0502
+generator loss: 0.0682, discriminator loss: -0.1024
+generator loss: -0.0273, discriminator loss: -0.0120
+generator loss: -0.0150, discriminator loss: -0.0268
+generator loss: 0.0234, discriminator loss: -0.0672
+generator loss: 0.0269, discriminator loss: -0.0758
+generator loss: -0.0092, discriminator loss: -0.0419
+generator loss: -0.0903, discriminator loss: 0.0411
+generator loss: 0.0178, discriminator loss: -0.0641
+generator loss: 0.0242, discriminator loss: -0.0669
+wgan error: 4.1298
+generator loss: -0.3461, discriminator loss: -0.0024
+generator loss: -0.3512, discriminator loss: 0.0014
+generator loss: -0.3515, discriminator loss: 0.0005
+generator loss: -0.2916, discriminator loss: -0.0622
+generator loss: -0.2962, discriminator loss: -0.0534
+generator loss: -0.2820, discriminator loss: -0.0676
+generator loss: -0.3080, discriminator loss: -0.0407
+generator loss: -0.3378, discriminator loss: -0.0085
+generator loss: -0.2842, discriminator loss: -0.0605
+generator loss: -0.3582, discriminator loss: 0.0168
+wgan error: 2.5151
+generator loss: 0.0104, discriminator loss: -0.0458
+generator loss: -0.0107, discriminator loss: -0.0235
+generator loss: -0.0352, discriminator loss: -0.0015
+generator loss: 0.0099, discriminator loss: -0.0486
+generator loss: 0.0170, discriminator loss: -0.0552
+generator loss: 0.0126, discriminator loss: -0.0477
+generator loss: 0.0329, discriminator loss: -0.0647
+generator loss: -0.0084, discriminator loss: -0.0278
+generator loss: -0.0118, discriminator loss: -0.0219
+generator loss: -0.0120, discriminator loss: -0.0239
+wgan error: 3.2010
+generator loss: -0.0287, discriminator loss: -0.0005
+generator loss: 0.0031, discriminator loss: -0.0304
+generator loss: -0.0410, discriminator loss: 0.0185
+generator loss: 0.0531, discriminator loss: -0.0735
+generator loss: -0.0073, discriminator loss: -0.0136
+generator loss: 0.0040, discriminator loss: -0.0263
+generator loss: 0.0181, discriminator loss: -0.0399
+generator loss: 0.0285, discriminator loss: -0.0439
+generator loss: 0.0112, discriminator loss: -0.0287
+generator loss: -0.0213, discriminator loss: 0.0040
+wgan error: 2.5184
+generator loss: 0.1492, discriminator loss: -0.0168
+generator loss: 0.1099, discriminator loss: 0.0214
+generator loss: 0.1906, discriminator loss: -0.0562
+generator loss: 0.1762, discriminator loss: -0.0411
+generator loss: 0.1865, discriminator loss: -0.0535
+generator loss: 0.1818, discriminator loss: -0.0448
+generator loss: 0.1492, discriminator loss: -0.0139
+generator loss: 0.1883, discriminator loss: -0.0511
+generator loss: 0.1645, discriminator loss: -0.0258
+generator loss: 0.1511, discriminator loss: -0.0112
+wgan error: 2.3874
+(1000, 20, 'Cauchy') 9317.2763
+(1000, 20, 'Cauchy') 3.3892 0.9017
+N=1000, p=20, model=Cauchy in done.(21.49 minutes)
+N=1000, p=20, model=Normal in progress.
+sample cov error: 42.4484
+generator loss: 0.3567, discriminator loss: -0.1531
+generator loss: 0.3388, discriminator loss: -0.1329
+generator loss: 0.2841, discriminator loss: -0.0799
+generator loss: 0.2552, discriminator loss: -0.0537
+generator loss: 0.3736, discriminator loss: -0.1771
+generator loss: 0.2605, discriminator loss: -0.0619
+generator loss: 0.2772, discriminator loss: -0.0789
+generator loss: 0.3073, discriminator loss: -0.1090
+generator loss: 0.3272, discriminator loss: -0.1240
+generator loss: 0.3052, discriminator loss: -0.0979
+wgan error: 3.7860
+generator loss: 0.2097, discriminator loss: -0.1134
+generator loss: 0.1765, discriminator loss: -0.0759
+generator loss: 0.2319, discriminator loss: -0.1301
+generator loss: 0.2028, discriminator loss: -0.0990
+generator loss: 0.1941, discriminator loss: -0.0963
+generator loss: 0.2069, discriminator loss: -0.1081
+generator loss: 0.2194, discriminator loss: -0.1095
+generator loss: 0.1983, discriminator loss: -0.0955
+generator loss: 0.2044, discriminator loss: -0.0921
+generator loss: 0.2441, discriminator loss: -0.1257
+wgan error: 4.5119
+generator loss: -0.1726, discriminator loss: -0.1067
+generator loss: -0.1778, discriminator loss: -0.1019
+generator loss: -0.1278, discriminator loss: -0.1487
+generator loss: -0.1546, discriminator loss: -0.1240
+generator loss: -0.1517, discriminator loss: -0.1283
+generator loss: -0.1976, discriminator loss: -0.0844
+generator loss: -0.2051, discriminator loss: -0.0783
+generator loss: -0.1576, discriminator loss: -0.1260
+generator loss: -0.2098, discriminator loss: -0.0722
+generator loss: -0.2042, discriminator loss: -0.0798
+wgan error: 3.7668
+generator loss: 0.3686, discriminator loss: -0.1344
+generator loss: 0.3121, discriminator loss: -0.0753
+generator loss: 0.3014, discriminator loss: -0.0660
+generator loss: 0.3620, discriminator loss: -0.1260
+generator loss: 0.3505, discriminator loss: -0.1201
+generator loss: 0.3219, discriminator loss: -0.0883
+generator loss: 0.3204, discriminator loss: -0.0854
+generator loss: 0.3180, discriminator loss: -0.0853
+generator loss: 0.3975, discriminator loss: -0.1639
+generator loss: 0.3516, discriminator loss: -0.1169
+wgan error: 4.0335
+generator loss: 0.2403, discriminator loss: -0.1158
+generator loss: 0.2469, discriminator loss: -0.1257
+generator loss: 0.2399, discriminator loss: -0.1204
+generator loss: 0.2518, discriminator loss: -0.1322
+generator loss: 0.2510, discriminator loss: -0.1236
+generator loss: 0.1993, discriminator loss: -0.0746
+generator loss: 0.2593, discriminator loss: -0.1344
+generator loss: 0.2515, discriminator loss: -0.1281
+generator loss: 0.2224, discriminator loss: -0.0975
+generator loss: 0.2532, discriminator loss: -0.1278
+wgan error: 5.0188
+generator loss: 0.2664, discriminator loss: -0.1272
+generator loss: 0.2160, discriminator loss: -0.0761
+generator loss: 0.2718, discriminator loss: -0.1296
+generator loss: 0.2604, discriminator loss: -0.1144
+generator loss: 0.2872, discriminator loss: -0.1411
+generator loss: 0.3749, discriminator loss: -0.2285
+generator loss: 0.2694, discriminator loss: -0.1194
+generator loss: 0.2433, discriminator loss: -0.0928
+generator loss: 0.2196, discriminator loss: -0.0689
+generator loss: 0.2989, discriminator loss: -0.1505
+wgan error: 3.4575
+generator loss: 0.0218, discriminator loss: -0.1266
+generator loss: -0.0004, discriminator loss: -0.1043
+generator loss: 0.0141, discriminator loss: -0.1201
+generator loss: -0.0443, discriminator loss: -0.0634
+generator loss: -0.0019, discriminator loss: -0.1058
+generator loss: 0.0202, discriminator loss: -0.1282
+generator loss: 0.0107, discriminator loss: -0.1177
+generator loss: 0.0210, discriminator loss: -0.1273
+generator loss: 0.0181, discriminator loss: -0.1244
+generator loss: 0.0196, discriminator loss: -0.1256
+wgan error: 3.7002
+generator loss: 0.0173, discriminator loss: -0.0664
+generator loss: 0.0228, discriminator loss: -0.0707
+generator loss: 0.0426, discriminator loss: -0.0855
+generator loss: 0.0566, discriminator loss: -0.0959
+generator loss: 0.1032, discriminator loss: -0.1445
+generator loss: 0.0492, discriminator loss: -0.0947
+generator loss: 0.0665, discriminator loss: -0.1102
+generator loss: 0.0366, discriminator loss: -0.0732
+generator loss: 0.0394, discriminator loss: -0.0766
+generator loss: -0.0036, discriminator loss: -0.0361
+wgan error: 4.7278
+generator loss: -0.2251, discriminator loss: -0.0663
+generator loss: -0.1425, discriminator loss: -0.1465
+generator loss: -0.2139, discriminator loss: -0.0746
+generator loss: -0.1446, discriminator loss: -0.1438
+generator loss: -0.1701, discriminator loss: -0.1153
+generator loss: -0.1313, discriminator loss: -0.1539
+generator loss: -0.1032, discriminator loss: -0.1813
+generator loss: -0.1752, discriminator loss: -0.1123
+generator loss: -0.1657, discriminator loss: -0.1200
+generator loss: -0.2136, discriminator loss: -0.0709
+wgan error: 2.8252
+generator loss: 0.1150, discriminator loss: -0.1061
+generator loss: 0.0842, discriminator loss: -0.0773
+generator loss: 0.0869, discriminator loss: -0.0798
+generator loss: 0.0268, discriminator loss: -0.0230
+generator loss: 0.1289, discriminator loss: -0.1242
+generator loss: 0.0943, discriminator loss: -0.0899
+generator loss: 0.0528, discriminator loss: -0.0492
+generator loss: 0.0931, discriminator loss: -0.0899
+generator loss: 0.0568, discriminator loss: -0.0544
+generator loss: 0.1396, discriminator loss: -0.1360
+wgan error: 4.4230
+(1000, 20, 'Normal') 42.4484
+(1000, 20, 'Normal') 4.0251 0.6219
+N=1000, p=20, model=Normal in done.(20.55 minutes)
+N=1000, p=20, model=Gumbel in progress.
+sample cov error: 22.8060
+generator loss: -0.1861, discriminator loss: -0.1033
+generator loss: -0.2534, discriminator loss: -0.0370
+generator loss: -0.2629, discriminator loss: -0.0270
+generator loss: -0.2193, discriminator loss: -0.0716
+generator loss: -0.2926, discriminator loss: 0.0006
+generator loss: -0.2210, discriminator loss: -0.0696
+generator loss: -0.2509, discriminator loss: -0.0399
+generator loss: -0.2587, discriminator loss: -0.0268
+generator loss: -0.1781, discriminator loss: -0.0949
+generator loss: -0.1686, discriminator loss: -0.0735
+wgan error: 4.8360
+generator loss: -0.2072, discriminator loss: -0.0454
+generator loss: -0.2167, discriminator loss: -0.0343
+generator loss: -0.1671, discriminator loss: -0.0817
+generator loss: -0.2141, discriminator loss: -0.0326
+generator loss: -0.2212, discriminator loss: -0.0215
+generator loss: -0.2487, discriminator loss: 0.0098
+generator loss: -0.2257, discriminator loss: -0.0104
+generator loss: -0.1603, discriminator loss: -0.0766
+generator loss: -0.1449, discriminator loss: -0.0900
+generator loss: -0.1936, discriminator loss: -0.0391
+wgan error: 2.7436
+generator loss: 0.0008, discriminator loss: -0.0739
+generator loss: -0.0285, discriminator loss: -0.0426
+generator loss: -0.0170, discriminator loss: -0.0539
+generator loss: -0.0509, discriminator loss: -0.0152
+generator loss: -0.0852, discriminator loss: 0.0163
+generator loss: 0.0597, discriminator loss: -0.1245
+generator loss: 0.0541, discriminator loss: -0.1187
+generator loss: -0.0035, discriminator loss: -0.0602
+generator loss: 0.0150, discriminator loss: -0.0779
+generator loss: 0.0327, discriminator loss: -0.0964
+wgan error: 2.8653
+generator loss: 0.0574, discriminator loss: -0.0199
+generator loss: 0.0903, discriminator loss: -0.0517
+generator loss: 0.0364, discriminator loss: 0.0028
+generator loss: 0.0636, discriminator loss: -0.0258
+generator loss: 0.0691, discriminator loss: -0.0305
+generator loss: 0.0813, discriminator loss: -0.0400
+generator loss: 0.1456, discriminator loss: -0.1032
+generator loss: 0.0991, discriminator loss: -0.0560
+generator loss: 0.1057, discriminator loss: -0.0604
+generator loss: 0.1357, discriminator loss: -0.0898
+wgan error: 2.9874
+generator loss: 0.0919, discriminator loss: -0.0452
+generator loss: 0.0884, discriminator loss: -0.0424
+generator loss: 0.0961, discriminator loss: -0.0468
+generator loss: 0.1215, discriminator loss: -0.0720
+generator loss: 0.1330, discriminator loss: -0.0834
+generator loss: 0.1302, discriminator loss: -0.0808
+generator loss: 0.1085, discriminator loss: -0.0615
+generator loss: 0.0396, discriminator loss: 0.0026
+generator loss: 0.0327, discriminator loss: 0.0081
+generator loss: 0.1113, discriminator loss: -0.0691
+wgan error: 2.8687
+generator loss: 0.0344, discriminator loss: -0.0704
+generator loss: 0.0297, discriminator loss: -0.0657
+generator loss: -0.0109, discriminator loss: -0.0236
+generator loss: -0.0076, discriminator loss: -0.0276
+generator loss: 0.0075, discriminator loss: -0.0439
+generator loss: 0.0358, discriminator loss: -0.0735
+generator loss: 0.0573, discriminator loss: -0.0955
+generator loss: 0.0510, discriminator loss: -0.0889
+generator loss: -0.0572, discriminator loss: 0.0175
+generator loss: 0.0006, discriminator loss: -0.0413
+wgan error: 2.5076
+generator loss: -0.2370, discriminator loss: -0.0792
+generator loss: -0.3007, discriminator loss: -0.0191
+generator loss: -0.2450, discriminator loss: -0.0767
+generator loss: -0.2316, discriminator loss: -0.0881
+generator loss: -0.2112, discriminator loss: -0.1118
+generator loss: -0.2423, discriminator loss: -0.0841
+generator loss: -0.3407, discriminator loss: 0.0132
+generator loss: -0.2982, discriminator loss: -0.0260
+generator loss: -0.2727, discriminator loss: -0.0544
+generator loss: -0.2626, discriminator loss: -0.0639
+wgan error: 3.3507
+generator loss: -0.1376, discriminator loss: -0.0260
+generator loss: -0.0749, discriminator loss: -0.0850
+generator loss: -0.1041, discriminator loss: -0.0545
+generator loss: -0.0480, discriminator loss: -0.1098
+generator loss: -0.0864, discriminator loss: -0.0679
+generator loss: -0.1177, discriminator loss: -0.0347
+generator loss: -0.1108, discriminator loss: -0.0388
+generator loss: -0.0871, discriminator loss: -0.0605
+generator loss: -0.0984, discriminator loss: -0.0497
+generator loss: -0.1589, discriminator loss: 0.0101
+wgan error: 2.2609
+generator loss: 0.5386, discriminator loss: -0.0737
+generator loss: 0.4796, discriminator loss: -0.0155
+generator loss: 0.5333, discriminator loss: -0.0694
+generator loss: 0.4998, discriminator loss: -0.0385
+generator loss: 0.5572, discriminator loss: -0.0972
+generator loss: 0.5419, discriminator loss: -0.0843
+generator loss: 0.5326, discriminator loss: -0.0784
+generator loss: 0.4863, discriminator loss: -0.0318
+generator loss: 0.5356, discriminator loss: -0.0805
+generator loss: 0.5575, discriminator loss: -0.1045
+wgan error: 6.1596
+generator loss: -0.2984, discriminator loss: -0.0322
+generator loss: -0.3127, discriminator loss: -0.0206
+generator loss: -0.2662, discriminator loss: -0.0631
+generator loss: -0.2599, discriminator loss: -0.0691
+generator loss: -0.2774, discriminator loss: -0.0499
+generator loss: -0.2565, discriminator loss: -0.0721
+generator loss: -0.2888, discriminator loss: -0.0396
+generator loss: -0.2672, discriminator loss: -0.0624
+generator loss: -0.2091, discriminator loss: -0.1190
+generator loss: -0.2719, discriminator loss: -0.0528
+wgan error: 2.6798
+(1000, 20, 'Gumbel') 22.8060
+(1000, 20, 'Gumbel') 3.3260 1.1579
+N=1000, p=20, model=Gumbel in done.(19.04 minutes)
+N=1000, p=40, model=Cauchy in progress.
+sample cov error: 907.6427
+generator loss: -0.1406, discriminator loss: -0.1683
+generator loss: -0.1936, discriminator loss: -0.1129
+generator loss: -0.2015, discriminator loss: -0.1051
+generator loss: -0.2067, discriminator loss: -0.1008
+generator loss: -0.2252, discriminator loss: -0.0840
+generator loss: -0.1628, discriminator loss: -0.1453
+generator loss: -0.2466, discriminator loss: -0.0595
+generator loss: -0.1624, discriminator loss: -0.1458
+generator loss: -0.1872, discriminator loss: -0.1273
+generator loss: -0.2333, discriminator loss: -0.0819
+wgan error: 6.5810
+generator loss: 0.1392, discriminator loss: -0.0843
+generator loss: 0.1103, discriminator loss: -0.0585
+generator loss: 0.1342, discriminator loss: -0.0844
+generator loss: 0.1750, discriminator loss: -0.1193
+generator loss: 0.1907, discriminator loss: -0.1351
+generator loss: 0.0982, discriminator loss: -0.0453
+generator loss: 0.1564, discriminator loss: -0.1054
+generator loss: 0.2100, discriminator loss: -0.1582
+generator loss: 0.1838, discriminator loss: -0.1291
+generator loss: 0.1928, discriminator loss: -0.1393
+wgan error: 5.1265
+generator loss: -0.0692, discriminator loss: -0.1062
+generator loss: -0.0912, discriminator loss: -0.0769
+generator loss: -0.0274, discriminator loss: -0.1492
+generator loss: -0.0761, discriminator loss: -0.1126
+generator loss: -0.0146, discriminator loss: -0.1773
+generator loss: -0.0825, discriminator loss: -0.1045
+generator loss: -0.0952, discriminator loss: -0.0839
+generator loss: -0.0892, discriminator loss: -0.0945
+generator loss: -0.0432, discriminator loss: -0.1390
+generator loss: -0.0911, discriminator loss: -0.0924
+wgan error: 3.8245
+generator loss: -0.3916, discriminator loss: -0.1040
+generator loss: -0.3953, discriminator loss: -0.0926
+generator loss: -0.4285, discriminator loss: -0.0530
+generator loss: -0.4313, discriminator loss: -0.0478
+generator loss: -0.4137, discriminator loss: -0.0648
+generator loss: -0.3865, discriminator loss: -0.0913
+generator loss: -0.4038, discriminator loss: -0.0811
+generator loss: -0.3998, discriminator loss: -0.0937
+generator loss: -0.4055, discriminator loss: -0.0757
+generator loss: -0.3178, discriminator loss: -0.1552
+wgan error: 6.2325
+generator loss: -0.4133, discriminator loss: -0.1246
+generator loss: -0.4486, discriminator loss: -0.0886
+generator loss: -0.4468, discriminator loss: -0.0872
+generator loss: -0.3934, discriminator loss: -0.1387
+generator loss: -0.4085, discriminator loss: -0.1221
+generator loss: -0.4078, discriminator loss: -0.1313
+generator loss: -0.4407, discriminator loss: -0.0999
+generator loss: -0.4109, discriminator loss: -0.1288
+generator loss: -0.4308, discriminator loss: -0.1046
+generator loss: -0.4273, discriminator loss: -0.1098
+wgan error: 4.9530
+generator loss: -0.4161, discriminator loss: -0.1222
+generator loss: -0.4457, discriminator loss: -0.1033
+generator loss: -0.4509, discriminator loss: -0.1005
+generator loss: -0.3467, discriminator loss: -0.2045
+generator loss: -0.4862, discriminator loss: -0.0640
+generator loss: -0.4140, discriminator loss: -0.1367
+generator loss: -0.4509, discriminator loss: -0.1027
+generator loss: -0.4403, discriminator loss: -0.1119
+generator loss: -0.4396, discriminator loss: -0.1150
+generator loss: -0.4408, discriminator loss: -0.1146
+wgan error: 3.8124
+generator loss: 0.0825, discriminator loss: -0.1466
+generator loss: -0.0013, discriminator loss: -0.0613
+generator loss: 0.0137, discriminator loss: -0.0795
+generator loss: 0.0390, discriminator loss: -0.1051
+generator loss: 0.0500, discriminator loss: -0.1094
+generator loss: 0.0034, discriminator loss: -0.0671
+generator loss: 0.1024, discriminator loss: -0.1633
+generator loss: 0.0655, discriminator loss: -0.1341
+generator loss: 0.1034, discriminator loss: -0.1713
+generator loss: 0.0143, discriminator loss: -0.0812
+wgan error: 3.9359
+generator loss: -0.4913, discriminator loss: -0.1236
+generator loss: -0.4699, discriminator loss: -0.1417
+generator loss: -0.5080, discriminator loss: -0.1035
+generator loss: -0.4666, discriminator loss: -0.1435
+generator loss: -0.5128, discriminator loss: -0.0912
+generator loss: -0.4853, discriminator loss: -0.1126
+generator loss: -0.5023, discriminator loss: -0.0988
+generator loss: -0.4905, discriminator loss: -0.1062
+generator loss: -0.5559, discriminator loss: -0.0449
+generator loss: -0.4925, discriminator loss: -0.1038
+wgan error: 3.0712
+generator loss: -0.2375, discriminator loss: -0.1786
+generator loss: -0.3077, discriminator loss: -0.1092
+generator loss: -0.2562, discriminator loss: -0.1494
+generator loss: -0.3684, discriminator loss: -0.0442
+generator loss: -0.3068, discriminator loss: -0.1027
+generator loss: -0.2805, discriminator loss: -0.1358
+generator loss: -0.2792, discriminator loss: -0.1293
+generator loss: -0.3073, discriminator loss: -0.1212
+generator loss: -0.3117, discriminator loss: -0.1205
+generator loss: -0.2851, discriminator loss: -0.1524
+wgan error: 4.7271
+generator loss: -0.0297, discriminator loss: -0.0794
+generator loss: 0.0064, discriminator loss: -0.1174
+generator loss: -0.0068, discriminator loss: -0.1108
+generator loss: 0.0212, discriminator loss: -0.1351
+generator loss: -0.0129, discriminator loss: -0.1038
+generator loss: -0.0541, discriminator loss: -0.0583
+generator loss: 0.0114, discriminator loss: -0.1258
+generator loss: -0.0669, discriminator loss: -0.0543
+generator loss: -0.0084, discriminator loss: -0.1022
+generator loss: -0.0426, discriminator loss: -0.0685
+wgan error: 4.6805
+(1000, 40, 'Cauchy') 907.6427
+(1000, 40, 'Cauchy') 4.6945 1.0452
+N=1000, p=40, model=Cauchy in done.(16.44 minutes)
+N=1000, p=40, model=Normal in progress.
+sample cov error: 83.8858
+generator loss: 0.1862, discriminator loss: -0.1785
+generator loss: 0.1224, discriminator loss: -0.1088
+generator loss: 0.1560, discriminator loss: -0.1456
+generator loss: 0.1248, discriminator loss: -0.1116
+generator loss: 0.1927, discriminator loss: -0.1803
+generator loss: 0.1512, discriminator loss: -0.1387
+generator loss: 0.1534, discriminator loss: -0.1442
+generator loss: 0.1607, discriminator loss: -0.1514
+generator loss: 0.1700, discriminator loss: -0.1616
+generator loss: 0.1546, discriminator loss: -0.1490
+wgan error: 4.5911
+generator loss: -0.0388, discriminator loss: -0.1256
+generator loss: -0.0490, discriminator loss: -0.1169
+generator loss: 0.0305, discriminator loss: -0.1955
+generator loss: 0.0084, discriminator loss: -0.1723
+generator loss: -0.0374, discriminator loss: -0.1252
+generator loss: -0.0612, discriminator loss: -0.1028
+generator loss: -0.0201, discriminator loss: -0.1412
+generator loss: -0.0017, discriminator loss: -0.1622
+generator loss: -0.0503, discriminator loss: -0.1195
+generator loss: -0.0333, discriminator loss: -0.1380
+wgan error: 3.9672
+generator loss: 0.1579, discriminator loss: -0.1666
+generator loss: 0.1184, discriminator loss: -0.1218
+generator loss: 0.1022, discriminator loss: -0.1056
+generator loss: 0.1664, discriminator loss: -0.1689
+generator loss: 0.1928, discriminator loss: -0.1932
+generator loss: 0.1714, discriminator loss: -0.1696
+generator loss: 0.1008, discriminator loss: -0.0977
+generator loss: 0.1738, discriminator loss: -0.1688
+generator loss: 0.1079, discriminator loss: -0.1029
+generator loss: 0.1641, discriminator loss: -0.1586
+wgan error: 4.1663
+generator loss: 0.4877, discriminator loss: -0.1554
+generator loss: 0.5147, discriminator loss: -0.1829
+generator loss: 0.4836, discriminator loss: -0.1518
+generator loss: 0.5033, discriminator loss: -0.1684
+generator loss: 0.5368, discriminator loss: -0.2022
+generator loss: 0.4907, discriminator loss: -0.1564
+generator loss: 0.4787, discriminator loss: -0.1384
+generator loss: 0.5427, discriminator loss: -0.2057
+generator loss: 0.5199, discriminator loss: -0.1826
+generator loss: 0.4785, discriminator loss: -0.1379
+wgan error: 3.4266
+generator loss: 0.0898, discriminator loss: -0.2743
+generator loss: 0.0259, discriminator loss: -0.2109
+generator loss: -0.0520, discriminator loss: -0.1304
+generator loss: -0.0046, discriminator loss: -0.1806
+generator loss: -0.0405, discriminator loss: -0.1410
+generator loss: 0.0010, discriminator loss: -0.1846
+generator loss: -0.0001, discriminator loss: -0.1828
+generator loss: -0.0291, discriminator loss: -0.1523
+generator loss: -0.0967, discriminator loss: -0.0884
+generator loss: -0.0036, discriminator loss: -0.1786
+wgan error: 3.6982
+generator loss: 0.0901, discriminator loss: -0.1387
+generator loss: 0.0446, discriminator loss: -0.0915
+generator loss: 0.1080, discriminator loss: -0.1503
+generator loss: 0.1963, discriminator loss: -0.2393
+generator loss: 0.0378, discriminator loss: -0.0831
+generator loss: 0.1118, discriminator loss: -0.1590
+generator loss: 0.1852, discriminator loss: -0.2323
+generator loss: 0.1567, discriminator loss: -0.2036
+generator loss: 0.0917, discriminator loss: -0.1393
+generator loss: 0.0713, discriminator loss: -0.1226
+wgan error: 4.0660
+generator loss: -0.2521, discriminator loss: -0.1808
+generator loss: -0.3148, discriminator loss: -0.1167
+generator loss: -0.2572, discriminator loss: -0.1757
+generator loss: -0.3383, discriminator loss: -0.0946
+generator loss: -0.2672, discriminator loss: -0.1649
+generator loss: -0.2348, discriminator loss: -0.1966
+generator loss: -0.2384, discriminator loss: -0.1867
+generator loss: -0.2553, discriminator loss: -0.1687
+generator loss: -0.2382, discriminator loss: -0.1874
+generator loss: -0.2941, discriminator loss: -0.1312
+wgan error: 4.5142
+generator loss: 0.0302, discriminator loss: -0.1044
+generator loss: 0.0607, discriminator loss: -0.1325
+generator loss: 0.0766, discriminator loss: -0.1444
+generator loss: 0.0459, discriminator loss: -0.1151
+generator loss: 0.0838, discriminator loss: -0.1518
+generator loss: 0.0582, discriminator loss: -0.1281
+generator loss: 0.0688, discriminator loss: -0.1365
+generator loss: 0.2010, discriminator loss: -0.2701
+generator loss: 0.1081, discriminator loss: -0.1764
+generator loss: 0.1375, discriminator loss: -0.2038
+wgan error: 4.3238
+generator loss: 0.0626, discriminator loss: -0.1796
+generator loss: 0.0994, discriminator loss: -0.2176
+generator loss: 0.1092, discriminator loss: -0.2259
+generator loss: 0.0831, discriminator loss: -0.2001
+generator loss: 0.0643, discriminator loss: -0.1827
+generator loss: 0.0308, discriminator loss: -0.1472
+generator loss: -0.0337, discriminator loss: -0.0858
+generator loss: -0.0018, discriminator loss: -0.1189
+generator loss: 0.0830, discriminator loss: -0.2030
+generator loss: 0.0454, discriminator loss: -0.1677
+wgan error: 4.0621
+generator loss: 0.0524, discriminator loss: -0.1156
+generator loss: 0.0367, discriminator loss: -0.1010
+generator loss: 0.0663, discriminator loss: -0.1308
+generator loss: 0.0514, discriminator loss: -0.1186
+generator loss: 0.1097, discriminator loss: -0.1729
+generator loss: 0.0507, discriminator loss: -0.1145
+generator loss: 0.0080, discriminator loss: -0.0726
+generator loss: 0.0811, discriminator loss: -0.1491
+generator loss: 0.0589, discriminator loss: -0.1286
+generator loss: 0.0232, discriminator loss: -0.0921
+wgan error: 5.3430
+(1000, 40, 'Normal') 83.8858
+(1000, 40, 'Normal') 4.2158 0.5013
+N=1000, p=40, model=Normal in done.(16.60 minutes)
+N=1000, p=40, model=Gumbel in progress.
+sample cov error: 36.2662
+generator loss: 0.1905, discriminator loss: -0.1629
+generator loss: 0.1461, discriminator loss: -0.1164
+generator loss: 0.2099, discriminator loss: -0.1815
+generator loss: 0.0904, discriminator loss: -0.0624
+generator loss: 0.1687, discriminator loss: -0.1412
+generator loss: 0.1282, discriminator loss: -0.1037
+generator loss: 0.1718, discriminator loss: -0.1472
+generator loss: 0.1714, discriminator loss: -0.1466
+generator loss: 0.1124, discriminator loss: -0.0864
+generator loss: 0.1394, discriminator loss: -0.1153
+wgan error: 4.5608
+generator loss: -0.2385, discriminator loss: -0.0594
+generator loss: -0.1446, discriminator loss: -0.1577
+generator loss: -0.2038, discriminator loss: -0.0975
+generator loss: -0.2004, discriminator loss: -0.1027
+generator loss: -0.2461, discriminator loss: -0.0583
+generator loss: -0.2016, discriminator loss: -0.1019
+generator loss: -0.1442, discriminator loss: -0.1605
+generator loss: -0.1371, discriminator loss: -0.1699
+generator loss: -0.1996, discriminator loss: -0.1075
+generator loss: -0.1671, discriminator loss: -0.1434
+wgan error: 3.9198
+generator loss: -0.0452, discriminator loss: -0.1364
+generator loss: -0.0328, discriminator loss: -0.1498
+generator loss: -0.0666, discriminator loss: -0.1188
+generator loss: -0.1012, discriminator loss: -0.0849
+generator loss: -0.0537, discriminator loss: -0.1313
+generator loss: -0.0475, discriminator loss: -0.1361
+generator loss: -0.0542, discriminator loss: -0.1318
+generator loss: -0.1420, discriminator loss: -0.0453
+generator loss: -0.1022, discriminator loss: -0.0855
+generator loss: -0.0585, discriminator loss: -0.1301
+wgan error: 4.4379
+generator loss: 0.0021, discriminator loss: -0.0605
+generator loss: 0.0188, discriminator loss: -0.0779
+generator loss: 0.0684, discriminator loss: -0.1296
+generator loss: 0.0236, discriminator loss: -0.0854
+generator loss: 0.1049, discriminator loss: -0.1671
+generator loss: -0.0101, discriminator loss: -0.0513
+generator loss: -0.0247, discriminator loss: -0.0386
+generator loss: 0.0376, discriminator loss: -0.1005
+generator loss: 0.0527, discriminator loss: -0.1157
+generator loss: 0.0586, discriminator loss: -0.1217
+wgan error: 4.4397
+generator loss: -0.0093, discriminator loss: -0.0559
+generator loss: 0.0115, discriminator loss: -0.0786
+generator loss: 0.0659, discriminator loss: -0.1325
+generator loss: -0.0211, discriminator loss: -0.0478
+generator loss: 0.0669, discriminator loss: -0.1383
+generator loss: 0.0421, discriminator loss: -0.1133
+generator loss: 0.0401, discriminator loss: -0.1118
+generator loss: 0.0305, discriminator loss: -0.1000
+generator loss: 0.0798, discriminator loss: -0.1504
+generator loss: 0.0267, discriminator loss: -0.0981
+wgan error: 5.3638
+generator loss: -0.0758, discriminator loss: -0.1094
+generator loss: -0.1109, discriminator loss: -0.0779
+generator loss: -0.0732, discriminator loss: -0.1146
+generator loss: 0.0106, discriminator loss: -0.1985
+generator loss: -0.0343, discriminator loss: -0.1528
+generator loss: -0.1242, discriminator loss: -0.0656
+generator loss: -0.0932, discriminator loss: -0.0947
+generator loss: -0.0886, discriminator loss: -0.1026
+generator loss: -0.1361, discriminator loss: -0.0578
+generator loss: -0.0598, discriminator loss: -0.1375
+wgan error: 3.0478
+generator loss: -0.1048, discriminator loss: -0.0819
+generator loss: -0.0341, discriminator loss: -0.1526
+generator loss: -0.1114, discriminator loss: -0.0771
+generator loss: -0.0491, discriminator loss: -0.1398
+generator loss: -0.0889, discriminator loss: -0.1029
+generator loss: -0.1095, discriminator loss: -0.0850
+generator loss: 0.0095, discriminator loss: -0.2039
+generator loss: -0.0231, discriminator loss: -0.1689
+generator loss: -0.0815, discriminator loss: -0.1140
+generator loss: -0.0608, discriminator loss: -0.1324
+wgan error: 4.7935
+generator loss: -0.3819, discriminator loss: -0.1063
+generator loss: -0.4444, discriminator loss: -0.0435
+generator loss: -0.3628, discriminator loss: -0.1263
+generator loss: -0.4102, discriminator loss: -0.0806
+generator loss: -0.3562, discriminator loss: -0.1355
+generator loss: -0.4002, discriminator loss: -0.0926
+generator loss: -0.4413, discriminator loss: -0.0532
+generator loss: -0.3761, discriminator loss: -0.1185
+generator loss: -0.4051, discriminator loss: -0.0898
+generator loss: -0.3696, discriminator loss: -0.1279
+wgan error: 3.8289
+generator loss: 0.1898, discriminator loss: -0.1394
+generator loss: 0.1557, discriminator loss: -0.1040
+generator loss: 0.1605, discriminator loss: -0.1076
+generator loss: 0.1926, discriminator loss: -0.1398
+generator loss: 0.1371, discriminator loss: -0.0832
+generator loss: 0.1406, discriminator loss: -0.0866
+generator loss: 0.1839, discriminator loss: -0.1318
+generator loss: 0.1369, discriminator loss: -0.0842
+generator loss: 0.1131, discriminator loss: -0.0632
+generator loss: 0.1516, discriminator loss: -0.1020
+wgan error: 3.8214
+generator loss: -0.3078, discriminator loss: -0.0369
+generator loss: -0.2600, discriminator loss: -0.0844
+generator loss: -0.2543, discriminator loss: -0.0904
+generator loss: -0.2952, discriminator loss: -0.0479
+generator loss: -0.2719, discriminator loss: -0.0722
+generator loss: -0.2335, discriminator loss: -0.1100
+generator loss: -0.1969, discriminator loss: -0.1412
+generator loss: -0.2081, discriminator loss: -0.1298
+generator loss: -0.2227, discriminator loss: -0.1132
+generator loss: -0.2538, discriminator loss: -0.0806
+wgan error: 4.4160
+(1000, 40, 'Gumbel') 36.2662
+(1000, 40, 'Gumbel') 4.2630 0.6037
+N=1000, p=40, model=Gumbel in done.(12.22 minutes)
+N=1000, p=10, model=Cauchy in progress.
+sample cov error: 286.8749
+generator loss: -0.0004, discriminator loss: -0.0004
+generator loss: -0.0003, discriminator loss: -0.0004
+generator loss: -0.0009, discriminator loss: -0.0001
+generator loss: -0.0000, discriminator loss: -0.0009
+generator loss: -0.0018, discriminator loss: 0.0008
+generator loss: -0.0007, discriminator loss: -0.0001
+generator loss: -0.0006, discriminator loss: -0.0001
+generator loss: -0.0000, discriminator loss: -0.0006
+generator loss: -0.0006, discriminator loss: -0.0002
+generator loss: 0.0000, discriminator loss: -0.0007
+wgan error: 122.3889
+generator loss: 0.4751, discriminator loss: -0.0183
+generator loss: 0.4700, discriminator loss: -0.0092
+generator loss: 0.5447, discriminator loss: -0.0839
+generator loss: 0.5387, discriminator loss: -0.0815
+generator loss: 0.4677, discriminator loss: -0.0047
+generator loss: 0.5284, discriminator loss: -0.0683
+generator loss: 0.5409, discriminator loss: -0.0779
+generator loss: 0.5084, discriminator loss: -0.0438
+generator loss: 0.4858, discriminator loss: -0.0261
+generator loss: 0.4880, discriminator loss: -0.0254
+wgan error: 2.2343
+generator loss: -0.4849, discriminator loss: -0.0734
+generator loss: -0.4844, discriminator loss: -0.0687
+generator loss: -0.5190, discriminator loss: -0.0375
+generator loss: -0.4534, discriminator loss: -0.0962
+generator loss: -0.5030, discriminator loss: -0.0498
+generator loss: -0.4911, discriminator loss: -0.0702
+generator loss: -0.4597, discriminator loss: -0.1016
+generator loss: -0.4611, discriminator loss: -0.0854
+generator loss: -0.5147, discriminator loss: -0.0452
+generator loss: -0.4883, discriminator loss: -0.0826
+wgan error: 2.5271
+generator loss: 0.0206, discriminator loss: -0.0690
+generator loss: 0.0255, discriminator loss: -0.0702
+generator loss: -0.0053, discriminator loss: -0.0360
+generator loss: -0.0060, discriminator loss: -0.0369
+generator loss: 0.0256, discriminator loss: -0.0704
+generator loss: 0.0152, discriminator loss: -0.0578
+generator loss: 0.0242, discriminator loss: -0.0655
+generator loss: 0.0359, discriminator loss: -0.0807
+generator loss: 0.0243, discriminator loss: -0.0713
+generator loss: -0.0321, discriminator loss: -0.0203
+wgan error: 3.4226
+generator loss: 0.4964, discriminator loss: -0.0909
+generator loss: 0.5001, discriminator loss: -0.0721
+generator loss: 0.5730, discriminator loss: -0.1466
+generator loss: 0.4876, discriminator loss: -0.0625
+generator loss: 0.5024, discriminator loss: -0.0802
+generator loss: 0.5668, discriminator loss: -0.1454
+generator loss: 0.5241, discriminator loss: -0.1033
+generator loss: 0.5032, discriminator loss: -0.0828
+generator loss: 0.4645, discriminator loss: -0.0515
+generator loss: 0.5364, discriminator loss: -0.1151
+wgan error: 3.4729
+generator loss: -0.0511, discriminator loss: -0.0276
+generator loss: -0.0217, discriminator loss: -0.0577
+generator loss: -0.0109, discriminator loss: -0.0706
+generator loss: 0.0625, discriminator loss: -0.1417
+generator loss: 0.0050, discriminator loss: -0.0849
+generator loss: -0.0236, discriminator loss: -0.0568
+generator loss: -0.0328, discriminator loss: -0.0487
+generator loss: 0.0379, discriminator loss: -0.1200
+generator loss: -0.0035, discriminator loss: -0.0792
+generator loss: 0.0022, discriminator loss: -0.0848
+wgan error: 2.4105
+generator loss: 0.5261, discriminator loss: -0.0598
+generator loss: 0.5516, discriminator loss: -0.0848
+generator loss: 0.4391, discriminator loss: 0.0275
+generator loss: 0.5087, discriminator loss: -0.0400
+generator loss: 0.5563, discriminator loss: -0.0927
+generator loss: 0.5468, discriminator loss: -0.0791
+generator loss: 0.6292, discriminator loss: -0.1663
+generator loss: 0.5811, discriminator loss: -0.1189
+generator loss: 0.5231, discriminator loss: -0.0590
+generator loss: 0.5489, discriminator loss: -0.0855
+wgan error: 6.5431
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+wgan error: 1.8932
+generator loss: 0.0333, discriminator loss: -0.0873
+generator loss: 0.0317, discriminator loss: -0.0906
+generator loss: 0.0197, discriminator loss: -0.0792
+generator loss: 0.0204, discriminator loss: -0.0846
+generator loss: 0.0041, discriminator loss: -0.0704
+generator loss: 0.0139, discriminator loss: -0.0836
+generator loss: 0.0260, discriminator loss: -0.0963
+generator loss: 0.0174, discriminator loss: -0.0879
+generator loss: -0.0235, discriminator loss: -0.0507
+generator loss: -0.0370, discriminator loss: -0.0409
+wgan error: 5.1021
+generator loss: 0.2062, discriminator loss: -0.0056
+generator loss: 0.2072, discriminator loss: -0.0066
+generator loss: 0.2138, discriminator loss: -0.0080
+generator loss: 0.2056, discriminator loss: -0.0078
+generator loss: 0.1868, discriminator loss: -0.0035
+generator loss: 0.1676, discriminator loss: -0.0048
+generator loss: 0.1496, discriminator loss: -0.0047
+generator loss: 0.1378, discriminator loss: -0.0082
+generator loss: 0.1231, discriminator loss: -0.0032
+generator loss: 0.1295, discriminator loss: -0.0096
+wgan error: 3.8892
+(1000, 10, 'Cauchy') 286.8749
+(1000, 10, 'Cauchy') 11.4512 27.6471
+N=1000, p=10, model=Cauchy in done.(10.74 minutes)
+N=1000, p=10, model=Normal in progress.
+sample cov error: 21.1319
+generator loss: -0.5110, discriminator loss: -0.1119
+generator loss: -0.5114, discriminator loss: -0.1134
+generator loss: -0.5220, discriminator loss: -0.1021
+generator loss: -0.5322, discriminator loss: -0.0908
+generator loss: -0.5103, discriminator loss: -0.1119
+generator loss: -0.4769, discriminator loss: -0.1456
+generator loss: -0.5843, discriminator loss: -0.0364
+generator loss: -0.5317, discriminator loss: -0.0919
+generator loss: -0.5680, discriminator loss: -0.0542
+generator loss: -0.5235, discriminator loss: -0.1004
+wgan error: 2.5317
+generator loss: 0.4708, discriminator loss: -0.0618
+generator loss: 0.5158, discriminator loss: -0.1074
+generator loss: 0.4472, discriminator loss: -0.0404
+generator loss: 0.5729, discriminator loss: -0.1680
+generator loss: 0.4736, discriminator loss: -0.0709
+generator loss: 0.4817, discriminator loss: -0.0796
+generator loss: 0.5085, discriminator loss: -0.1059
+generator loss: 0.4829, discriminator loss: -0.0829
+generator loss: 0.4916, discriminator loss: -0.0944
+generator loss: 0.5348, discriminator loss: -0.1391
+wgan error: 3.6613
+generator loss: -0.0014, discriminator loss: -0.1033
+generator loss: -0.0201, discriminator loss: -0.0819
+generator loss: 0.0271, discriminator loss: -0.1263
+generator loss: 0.0187, discriminator loss: -0.1177
+generator loss: 0.0735, discriminator loss: -0.1718
+generator loss: 0.0405, discriminator loss: -0.1364
+generator loss: 0.0054, discriminator loss: -0.0998
+generator loss: 0.0046, discriminator loss: -0.0975
+generator loss: 0.0062, discriminator loss: -0.0980
+generator loss: 0.0678, discriminator loss: -0.1572
+wgan error: 6.0848
+generator loss: 0.5435, discriminator loss: -0.1307
+generator loss: 0.5433, discriminator loss: -0.1278
+generator loss: 0.5340, discriminator loss: -0.1164
+generator loss: 0.4877, discriminator loss: -0.0654
+generator loss: 0.5321, discriminator loss: -0.1096
+generator loss: 0.4994, discriminator loss: -0.0747
+generator loss: 0.4969, discriminator loss: -0.0723
+generator loss: 0.5102, discriminator loss: -0.0828
+generator loss: 0.5740, discriminator loss: -0.1455
+generator loss: 0.5784, discriminator loss: -0.1497
+wgan error: 2.8769
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+wgan error: 2.3931
+generator loss: -0.2675, discriminator loss: -0.0849
+generator loss: -0.2728, discriminator loss: -0.0766
+generator loss: -0.2524, discriminator loss: -0.0945
+generator loss: -0.2625, discriminator loss: -0.0759
+generator loss: -0.2687, discriminator loss: -0.0647
+generator loss: -0.2577, discriminator loss: -0.0574
+generator loss: -0.2191, discriminator loss: -0.0689
+generator loss: -0.1890, discriminator loss: -0.0731
+generator loss: -0.1629, discriminator loss: -0.0794
+generator loss: -0.1555, discriminator loss: -0.0840
+wgan error: 1.9703
+generator loss: 0.5238, discriminator loss: -0.1482
+generator loss: 0.5147, discriminator loss: -0.1377
+generator loss: 0.5150, discriminator loss: -0.1364
+generator loss: 0.4219, discriminator loss: -0.0427
+generator loss: 0.4934, discriminator loss: -0.1104
+generator loss: 0.5610, discriminator loss: -0.1782
+generator loss: 0.5311, discriminator loss: -0.1464
+generator loss: 0.5324, discriminator loss: -0.1460
+generator loss: 0.4789, discriminator loss: -0.0903
+generator loss: 0.4193, discriminator loss: -0.0280
+wgan error: 2.1118
+generator loss: -0.5081, discriminator loss: -0.1173
+generator loss: -0.4398, discriminator loss: -0.1854
+generator loss: -0.5165, discriminator loss: -0.1079
+generator loss: -0.4906, discriminator loss: -0.1339
+generator loss: -0.5586, discriminator loss: -0.0657
+generator loss: -0.5133, discriminator loss: -0.1089
+generator loss: -0.5277, discriminator loss: -0.0969
+generator loss: -0.5117, discriminator loss: -0.1157
+generator loss: -0.4776, discriminator loss: -0.1491
+generator loss: -0.5332, discriminator loss: -0.0951
+wgan error: 2.9849
+generator loss: 0.1094, discriminator loss: -0.0880
+generator loss: 0.0992, discriminator loss: -0.0796
+generator loss: 0.0908, discriminator loss: -0.0732
+generator loss: 0.1273, discriminator loss: -0.1133
+generator loss: 0.1003, discriminator loss: -0.0870
+generator loss: 0.0316, discriminator loss: -0.0196
+generator loss: 0.1192, discriminator loss: -0.1105
+generator loss: 0.0433, discriminator loss: -0.0398
+generator loss: 0.0900, discriminator loss: -0.0879
+generator loss: 0.1095, discriminator loss: -0.1094
+wgan error: 7.2796
+generator loss: 0.0239, discriminator loss: -0.1063
+generator loss: -0.0020, discriminator loss: -0.0819
+generator loss: -0.0110, discriminator loss: -0.0731
+generator loss: 0.0116, discriminator loss: -0.0971
+generator loss: -0.0170, discriminator loss: -0.0700
+generator loss: -0.0206, discriminator loss: -0.0663
+generator loss: 0.0059, discriminator loss: -0.0943
+generator loss: -0.0112, discriminator loss: -0.0759
+generator loss: -0.0431, discriminator loss: -0.0463
+generator loss: 0.0592, discriminator loss: -0.1515
+wgan error: 4.1561
+(1000, 10, 'Normal') 21.1319
+(1000, 10, 'Normal') 3.6139 1.4214
+N=1000, p=10, model=Normal in done.(10.85 minutes)
+N=1000, p=10, model=Gumbel in progress.
+sample cov error: 12.6486
+generator loss: 0.1780, discriminator loss: -0.0503
+generator loss: 0.2663, discriminator loss: -0.0629
+generator loss: 0.3645, discriminator loss: -0.0739
+generator loss: 0.4390, discriminator loss: -0.0899
+generator loss: 0.4593, discriminator loss: -0.0903
+generator loss: 0.4092, discriminator loss: -0.0770
+generator loss: 0.3685, discriminator loss: -0.0676
+generator loss: 0.3147, discriminator loss: -0.0667
+generator loss: 0.2776, discriminator loss: -0.0811
+generator loss: 0.2040, discriminator loss: -0.0572
+wgan error: 6.4793
+generator loss: -0.0355, discriminator loss: -0.0489
+generator loss: 0.0287, discriminator loss: -0.1105
+generator loss: -0.0001, discriminator loss: -0.0804
+generator loss: -0.0438, discriminator loss: -0.0360
+generator loss: -0.0604, discriminator loss: -0.0169
+generator loss: 0.0302, discriminator loss: -0.1021
+generator loss: 0.0586, discriminator loss: -0.1304
+generator loss: 0.0232, discriminator loss: -0.0853
+generator loss: 0.0509, discriminator loss: -0.1026
+generator loss: 0.0131, discriminator loss: -0.0603
+wgan error: 2.5215
+generator loss: -0.3947, discriminator loss: -0.1024
+generator loss: -0.3999, discriminator loss: -0.0994
+generator loss: -0.4192, discriminator loss: -0.0794
+generator loss: -0.4138, discriminator loss: -0.0886
+generator loss: -0.3966, discriminator loss: -0.1043
+generator loss: -0.4098, discriminator loss: -0.0900
+generator loss: -0.4210, discriminator loss: -0.0800
+generator loss: -0.4342, discriminator loss: -0.0654
+generator loss: -0.4187, discriminator loss: -0.0846
+generator loss: -0.3863, discriminator loss: -0.1191
+wgan error: 3.6710
+generator loss: 0.7459, discriminator loss: -0.0943
+generator loss: 0.7475, discriminator loss: -0.0942
+generator loss: 0.7662, discriminator loss: -0.1102
+generator loss: 0.7680, discriminator loss: -0.1119
+generator loss: 0.7727, discriminator loss: -0.1149
+generator loss: 0.7700, discriminator loss: -0.1134
+generator loss: 0.7651, discriminator loss: -0.1022
+generator loss: 0.7523, discriminator loss: -0.0835
+generator loss: 0.7500, discriminator loss: -0.0681
+generator loss: 0.7539, discriminator loss: -0.0645
+wgan error: 2.6450
+generator loss: -0.4516, discriminator loss: -0.0978
+generator loss: -0.4713, discriminator loss: -0.0668
+generator loss: -0.4124, discriminator loss: -0.1169
+generator loss: -0.4223, discriminator loss: -0.0973
+generator loss: -0.4253, discriminator loss: -0.0878
+generator loss: -0.4457, discriminator loss: -0.0587
+generator loss: -0.3827, discriminator loss: -0.1151
+generator loss: -0.4060, discriminator loss: -0.0872
+generator loss: -0.4539, discriminator loss: -0.0548
+generator loss: -0.3982, discriminator loss: -0.1065
+wgan error: 4.7296
+generator loss: 0.1941, discriminator loss: -0.1331
+generator loss: 0.1465, discriminator loss: -0.0886
+generator loss: 0.1478, discriminator loss: -0.0929
+generator loss: 0.1412, discriminator loss: -0.0898
+generator loss: 0.1066, discriminator loss: -0.0605
+generator loss: 0.1141, discriminator loss: -0.0739
+generator loss: 0.1056, discriminator loss: -0.0796
+generator loss: 0.0897, discriminator loss: -0.0705
+generator loss: 0.0979, discriminator loss: -0.0895
+generator loss: 0.1003, discriminator loss: -0.1021
+wgan error: 2.6195
+generator loss: -0.4197, discriminator loss: -0.1110
+generator loss: -0.4619, discriminator loss: -0.0724
+generator loss: -0.4396, discriminator loss: -0.0913
+generator loss: -0.4616, discriminator loss: -0.0667
+generator loss: -0.4540, discriminator loss: -0.0720
+generator loss: -0.4562, discriminator loss: -0.0725
+generator loss: -0.4440, discriminator loss: -0.0866
+generator loss: -0.4462, discriminator loss: -0.0850
+generator loss: -0.4540, discriminator loss: -0.0816
+generator loss: -0.4545, discriminator loss: -0.0946
+wgan error: 1.7750
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+wgan error: 1.8412
+generator loss: 0.0089, discriminator loss: -0.0902
+generator loss: -0.0399, discriminator loss: -0.0425
+generator loss: -0.0741, discriminator loss: -0.0117
+generator loss: -0.0376, discriminator loss: -0.0466
+generator loss: 0.0415, discriminator loss: -0.1266
+generator loss: 0.0022, discriminator loss: -0.0888
+generator loss: -0.0204, discriminator loss: -0.0701
+generator loss: 0.0351, discriminator loss: -0.1293
+generator loss: -0.0054, discriminator loss: -0.0914
+generator loss: -0.0226, discriminator loss: -0.0723
+wgan error: 3.0297
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+wgan error: 1.8095
+(1000, 10, 'Gumbel') 12.6486
+(1000, 10, 'Gumbel') 3.1109 1.1117
+N=1000, p=10, model=Gumbel in done.(10.73 minutes)
+N=1000, p=20, model=Cauchy in progress.
+sample cov error: 1553.5341
+generator loss: -0.4525, discriminator loss: -0.1315
+generator loss: -0.4724, discriminator loss: -0.1182
+generator loss: -0.5363, discriminator loss: -0.0574
+generator loss: -0.5611, discriminator loss: -0.0380
+generator loss: -0.5315, discriminator loss: -0.0646
+generator loss: -0.5408, discriminator loss: -0.0533
+generator loss: -0.5057, discriminator loss: -0.0867
+generator loss: -0.5543, discriminator loss: -0.0473
+generator loss: -0.5943, discriminator loss: -0.0085
+generator loss: -0.5286, discriminator loss: -0.0787
+wgan error: 3.1910
+generator loss: -0.5603, discriminator loss: -0.0178
+generator loss: -0.5223, discriminator loss: -0.0520
+generator loss: -0.5246, discriminator loss: -0.0458
+generator loss: -0.4938, discriminator loss: -0.0828
+generator loss: -0.5236, discriminator loss: -0.0524
+generator loss: -0.5209, discriminator loss: -0.0553
+generator loss: -0.5331, discriminator loss: -0.0389
+generator loss: -0.5311, discriminator loss: -0.0423
+generator loss: -0.5207, discriminator loss: -0.0606
+generator loss: -0.5352, discriminator loss: -0.0370
+wgan error: 4.1769
+generator loss: -0.3207, discriminator loss: -0.0598
+generator loss: -0.2587, discriminator loss: -0.1210
+generator loss: -0.2838, discriminator loss: -0.0958
+generator loss: -0.3142, discriminator loss: -0.0596
+generator loss: -0.3191, discriminator loss: -0.0496
+generator loss: -0.3061, discriminator loss: -0.0707
+generator loss: -0.3172, discriminator loss: -0.0544
+generator loss: -0.2965, discriminator loss: -0.0792
+generator loss: -0.2975, discriminator loss: -0.0793
+generator loss: -0.2987, discriminator loss: -0.0800
+wgan error: 4.2004
+generator loss: -0.1365, discriminator loss: -0.0613
+generator loss: -0.1674, discriminator loss: -0.0397
+generator loss: -0.1713, discriminator loss: -0.0309
+generator loss: -0.1911, discriminator loss: -0.0263
+generator loss: -0.1968, discriminator loss: -0.0213
+generator loss: -0.1842, discriminator loss: -0.0407
+generator loss: -0.2140, discriminator loss: -0.0124
+generator loss: -0.1520, discriminator loss: -0.0780
+generator loss: -0.1921, discriminator loss: -0.0302
+generator loss: -0.1519, discriminator loss: -0.0608
+wgan error: 3.8201
+generator loss: -0.0023, discriminator loss: -0.0722
+generator loss: 0.0301, discriminator loss: -0.0983
+generator loss: -0.0243, discriminator loss: -0.0531
+generator loss: -0.0318, discriminator loss: -0.0511
+generator loss: -0.0271, discriminator loss: -0.0583
+generator loss: -0.0207, discriminator loss: -0.0677
+generator loss: 0.0104, discriminator loss: -0.0885
+generator loss: 0.0035, discriminator loss: -0.0871
+generator loss: 0.0152, discriminator loss: -0.1009
+generator loss: -0.0674, discriminator loss: -0.0159
+wgan error: 4.9593
+generator loss: -0.1672, discriminator loss: -0.0764
+generator loss: -0.1960, discriminator loss: -0.0495
+generator loss: -0.1191, discriminator loss: -0.1268
+generator loss: -0.1946, discriminator loss: -0.0477
+generator loss: -0.1903, discriminator loss: -0.0494
+generator loss: -0.1531, discriminator loss: -0.0904
+generator loss: -0.1272, discriminator loss: -0.1169
+generator loss: -0.1854, discriminator loss: -0.0553
+generator loss: -0.1065, discriminator loss: -0.1277
+generator loss: -0.1524, discriminator loss: -0.0827
+wgan error: 3.6348
+generator loss: -0.0928, discriminator loss: -0.0856
+generator loss: -0.0630, discriminator loss: -0.1226
+generator loss: -0.1781, discriminator loss: -0.0048
+generator loss: -0.1197, discriminator loss: -0.0615
+generator loss: -0.0937, discriminator loss: -0.0900
+generator loss: -0.0922, discriminator loss: -0.0925
+generator loss: -0.1643, discriminator loss: -0.0220
+generator loss: -0.1352, discriminator loss: -0.0498
+generator loss: -0.0856, discriminator loss: -0.1068
+generator loss: -0.1153, discriminator loss: -0.0725
+wgan error: 3.7326
+generator loss: -0.2516, discriminator loss: -0.0798
+generator loss: -0.2788, discriminator loss: -0.0558
+generator loss: -0.2816, discriminator loss: -0.0476
+generator loss: -0.2640, discriminator loss: -0.0693
+generator loss: -0.2738, discriminator loss: -0.0608
+generator loss: -0.2471, discriminator loss: -0.0865
+generator loss: -0.2674, discriminator loss: -0.0624
+generator loss: -0.2558, discriminator loss: -0.0780
+generator loss: -0.2850, discriminator loss: -0.0477
+generator loss: -0.2852, discriminator loss: -0.0480
+wgan error: 4.4610
+generator loss: -0.5299, discriminator loss: -0.0429
+generator loss: -0.5034, discriminator loss: -0.0704
+generator loss: -0.5103, discriminator loss: -0.0658
+generator loss: -0.5249, discriminator loss: -0.0539
+generator loss: -0.5447, discriminator loss: -0.0408
+generator loss: -0.5535, discriminator loss: -0.0332
+generator loss: -0.5376, discriminator loss: -0.0605
+generator loss: -0.5768, discriminator loss: -0.0203
+generator loss: -0.5472, discriminator loss: -0.0481
+generator loss: -0.5153, discriminator loss: -0.0777
+wgan error: 3.6150
+generator loss: -0.5614, discriminator loss: -0.0212
+generator loss: -0.5221, discriminator loss: -0.0720
+generator loss: -0.5229, discriminator loss: -0.0666
+generator loss: -0.5491, discriminator loss: -0.0515
+generator loss: -0.5320, discriminator loss: -0.0708
+generator loss: -0.5932, discriminator loss: -0.0034
+generator loss: -0.5547, discriminator loss: -0.0593
+generator loss: -0.5887, discriminator loss: -0.0246
+generator loss: -0.5462, discriminator loss: -0.0704
+generator loss: -0.5798, discriminator loss: -0.0458
+wgan error: 4.3346
+(1000, 20, 'Cauchy') 1553.5341
+(1000, 20, 'Cauchy') 3.7009 0.7883
+N=1000, p=20, model=Cauchy in done.(10.93 minutes)
+N=1000, p=20, model=Normal in progress.
+sample cov error: 48.7115
+generator loss: 0.0273, discriminator loss: -0.1383
+generator loss: 0.0037, discriminator loss: -0.1152
+generator loss: -0.0277, discriminator loss: -0.0841
+generator loss: 0.0115, discriminator loss: -0.1232
+generator loss: 0.0268, discriminator loss: -0.1397
+generator loss: 0.0322, discriminator loss: -0.1473
+generator loss: 0.0584, discriminator loss: -0.1723
+generator loss: 0.0172, discriminator loss: -0.1309
+generator loss: 0.0186, discriminator loss: -0.1343
+generator loss: 0.0900, discriminator loss: -0.2067
+wgan error: 3.0480
+generator loss: -0.0946, discriminator loss: -0.1242
+generator loss: -0.0428, discriminator loss: -0.1756
+generator loss: -0.1098, discriminator loss: -0.1100
+generator loss: -0.0554, discriminator loss: -0.1628
+generator loss: -0.0829, discriminator loss: -0.1343
+generator loss: -0.1095, discriminator loss: -0.1091
+generator loss: -0.1046, discriminator loss: -0.1143
+generator loss: -0.0566, discriminator loss: -0.1655
+generator loss: -0.0840, discriminator loss: -0.1379
+generator loss: -0.1047, discriminator loss: -0.1156
+wgan error: 3.5751
+generator loss: 0.1277, discriminator loss: -0.0875
+generator loss: 0.1232, discriminator loss: -0.0796
+generator loss: 0.2037, discriminator loss: -0.1632
+generator loss: 0.1495, discriminator loss: -0.1083
+generator loss: 0.1355, discriminator loss: -0.0926
+generator loss: 0.1533, discriminator loss: -0.1092
+generator loss: 0.1381, discriminator loss: -0.0891
+generator loss: 0.1414, discriminator loss: -0.0864
+generator loss: 0.1797, discriminator loss: -0.1243
+generator loss: 0.2047, discriminator loss: -0.1485
+wgan error: 5.8031
+generator loss: 0.0616, discriminator loss: -0.0738
+generator loss: 0.0418, discriminator loss: -0.0531
+generator loss: 0.1289, discriminator loss: -0.1401
+generator loss: 0.0784, discriminator loss: -0.0882
+generator loss: 0.0849, discriminator loss: -0.0939
+generator loss: 0.1206, discriminator loss: -0.1269
+generator loss: 0.1104, discriminator loss: -0.1155
+generator loss: 0.1435, discriminator loss: -0.1463
+generator loss: 0.0985, discriminator loss: -0.1009
+generator loss: 0.0910, discriminator loss: -0.0919
+wgan error: 4.9813
+generator loss: -0.2630, discriminator loss: -0.1209
+generator loss: -0.2740, discriminator loss: -0.1117
+generator loss: -0.2144, discriminator loss: -0.1679
+generator loss: -0.2665, discriminator loss: -0.1149
+generator loss: -0.2577, discriminator loss: -0.1240
+generator loss: -0.3291, discriminator loss: -0.0548
+generator loss: -0.2573, discriminator loss: -0.1239
+generator loss: -0.2805, discriminator loss: -0.0950
+generator loss: -0.2599, discriminator loss: -0.1156
+generator loss: -0.3105, discriminator loss: -0.0698
+wgan error: 4.2374
+generator loss: 0.2789, discriminator loss: -0.0864
+generator loss: 0.2966, discriminator loss: -0.1021
+generator loss: 0.2991, discriminator loss: -0.1056
+generator loss: 0.3555, discriminator loss: -0.1580
+generator loss: 0.3517, discriminator loss: -0.1509
+generator loss: 0.3389, discriminator loss: -0.1358
+generator loss: 0.3713, discriminator loss: -0.1678
+generator loss: 0.3213, discriminator loss: -0.1165
+generator loss: 0.2830, discriminator loss: -0.0761
+generator loss: 0.3350, discriminator loss: -0.1270
+wgan error: 4.6865
+generator loss: 0.2632, discriminator loss: -0.1297
+generator loss: 0.2878, discriminator loss: -0.1542
+generator loss: 0.2385, discriminator loss: -0.1063
+generator loss: 0.2654, discriminator loss: -0.1322
+generator loss: 0.2106, discriminator loss: -0.0774
+generator loss: 0.2127, discriminator loss: -0.0791
+generator loss: 0.2031, discriminator loss: -0.0704
+generator loss: 0.2804, discriminator loss: -0.1441
+generator loss: 0.2299, discriminator loss: -0.0953
+generator loss: 0.2391, discriminator loss: -0.1018
+wgan error: 3.7113
+generator loss: -0.2861, discriminator loss: -0.1434
+generator loss: -0.3095, discriminator loss: -0.1210
+generator loss: -0.3099, discriminator loss: -0.1207
+generator loss: -0.3090, discriminator loss: -0.1234
+generator loss: -0.3002, discriminator loss: -0.1344
+generator loss: -0.3229, discriminator loss: -0.1089
+generator loss: -0.2114, discriminator loss: -0.2195
+generator loss: -0.3079, discriminator loss: -0.1247
+generator loss: -0.3433, discriminator loss: -0.0898
+generator loss: -0.2748, discriminator loss: -0.1574
+wgan error: 3.8544
+generator loss: 0.2322, discriminator loss: -0.1169
+generator loss: 0.2207, discriminator loss: -0.1073
+generator loss: 0.2002, discriminator loss: -0.0880
+generator loss: 0.3140, discriminator loss: -0.2025
+generator loss: 0.3380, discriminator loss: -0.2244
+generator loss: 0.2798, discriminator loss: -0.1663
+generator loss: 0.1969, discriminator loss: -0.0851
+generator loss: 0.2198, discriminator loss: -0.1068
+generator loss: 0.2463, discriminator loss: -0.1308
+generator loss: 0.2213, discriminator loss: -0.1090
+wgan error: 3.8446
+generator loss: 0.2147, discriminator loss: -0.1627
+generator loss: 0.2008, discriminator loss: -0.1504
+generator loss: 0.1612, discriminator loss: -0.1112
+generator loss: 0.1725, discriminator loss: -0.1219
+generator loss: 0.1595, discriminator loss: -0.1068
+generator loss: 0.1572, discriminator loss: -0.1047
+generator loss: 0.2311, discriminator loss: -0.1804
+generator loss: 0.1631, discriminator loss: -0.1111
+generator loss: 0.1188, discriminator loss: -0.0667
+generator loss: 0.1252, discriminator loss: -0.0709
+wgan error: 3.3410
+(1000, 20, 'Normal') 48.7115
+(1000, 20, 'Normal') 4.0667 0.7133
+N=1000, p=20, model=Normal in done.(9.43 minutes)
+N=1000, p=20, model=Gumbel in progress.
+sample cov error: 18.9068
+generator loss: 0.5134, discriminator loss: -0.0300
+generator loss: 0.4713, discriminator loss: 0.0155
+generator loss: 0.5304, discriminator loss: -0.0404
+generator loss: 0.5338, discriminator loss: -0.0412
+generator loss: 0.5175, discriminator loss: -0.0261
+generator loss: 0.5404, discriminator loss: -0.0486
+generator loss: 0.5244, discriminator loss: -0.0337
+generator loss: 0.5384, discriminator loss: -0.0486
+generator loss: 0.5523, discriminator loss: -0.0621
+generator loss: 0.4766, discriminator loss: 0.0134
+wgan error: 3.0769
+generator loss: 0.3067, discriminator loss: -0.0011
+generator loss: 0.3428, discriminator loss: -0.0365
+generator loss: 0.3544, discriminator loss: -0.0411
+generator loss: 0.3598, discriminator loss: -0.0433
+generator loss: 0.3795, discriminator loss: -0.0561
+generator loss: 0.3245, discriminator loss: -0.0002
+generator loss: 0.3752, discriminator loss: -0.0447
+generator loss: 0.3617, discriminator loss: -0.0376
+generator loss: 0.3459, discriminator loss: -0.0220
+generator loss: 0.4080, discriminator loss: -0.0811
+wgan error: 4.5378
+generator loss: -0.1874, discriminator loss: -0.0795
+generator loss: -0.1723, discriminator loss: -0.1023
+generator loss: -0.2267, discriminator loss: -0.0496
+generator loss: -0.1976, discriminator loss: -0.0820
+generator loss: -0.2629, discriminator loss: -0.0184
+generator loss: -0.2569, discriminator loss: -0.0250
+generator loss: -0.2534, discriminator loss: -0.0345
+generator loss: -0.2413, discriminator loss: -0.0456
+generator loss: -0.2657, discriminator loss: -0.0279
+generator loss: -0.2779, discriminator loss: -0.0134
+wgan error: 4.3637
+generator loss: 0.0838, discriminator loss: -0.0190
+generator loss: 0.0994, discriminator loss: -0.0359
+generator loss: 0.0956, discriminator loss: -0.0310
+generator loss: 0.1254, discriminator loss: -0.0596
+generator loss: 0.1028, discriminator loss: -0.0356
+generator loss: 0.1107, discriminator loss: -0.0438
+generator loss: 0.0808, discriminator loss: -0.0127
+generator loss: 0.0747, discriminator loss: -0.0076
+generator loss: 0.0885, discriminator loss: -0.0204
+generator loss: 0.1333, discriminator loss: -0.0658
+wgan error: 3.4730
+generator loss: -0.1134, discriminator loss: -0.0336
+generator loss: -0.1641, discriminator loss: 0.0157
+generator loss: -0.1484, discriminator loss: 0.0002
+generator loss: -0.1128, discriminator loss: -0.0364
+generator loss: -0.1154, discriminator loss: -0.0337
+generator loss: -0.1165, discriminator loss: -0.0344
+generator loss: -0.0985, discriminator loss: -0.0524
+generator loss: -0.1410, discriminator loss: -0.0085
+generator loss: -0.1159, discriminator loss: -0.0339
+generator loss: -0.0885, discriminator loss: -0.0639
+wgan error: 2.5586
+generator loss: 0.2642, discriminator loss: -0.0473
+generator loss: 0.1987, discriminator loss: 0.0206
+generator loss: 0.2982, discriminator loss: -0.0772
+generator loss: 0.2227, discriminator loss: 0.0036
+generator loss: 0.2858, discriminator loss: -0.0596
+generator loss: 0.2179, discriminator loss: 0.0088
+generator loss: 0.2184, discriminator loss: 0.0096
+generator loss: 0.2596, discriminator loss: -0.0273
+generator loss: 0.2446, discriminator loss: -0.0112
+generator loss: 0.2935, discriminator loss: -0.0566
+wgan error: 2.4120
+generator loss: -0.3011, discriminator loss: -0.0244
+generator loss: -0.2729, discriminator loss: -0.0545
+generator loss: -0.3286, discriminator loss: -0.0060
+generator loss: -0.2827, discriminator loss: -0.0479
+generator loss: -0.2664, discriminator loss: -0.0708
+generator loss: -0.2945, discriminator loss: -0.0440
+generator loss: -0.2783, discriminator loss: -0.0626
+generator loss: -0.3345, discriminator loss: -0.0097
+generator loss: -0.3424, discriminator loss: -0.0026
+generator loss: -0.3346, discriminator loss: -0.0100
+wgan error: 3.3699
+generator loss: 0.2907, discriminator loss: -0.0786
+generator loss: 0.2929, discriminator loss: -0.0801
+generator loss: 0.2499, discriminator loss: -0.0402
+generator loss: 0.2593, discriminator loss: -0.0498
+generator loss: 0.2495, discriminator loss: -0.0430
+generator loss: 0.2448, discriminator loss: -0.0379
+generator loss: 0.1957, discriminator loss: 0.0151
+generator loss: 0.2568, discriminator loss: -0.0430
+generator loss: 0.2603, discriminator loss: -0.0441
+generator loss: 0.2748, discriminator loss: -0.0596
+wgan error: 2.6449
+generator loss: 0.2960, discriminator loss: -0.0831
+generator loss: 0.2867, discriminator loss: -0.0722
+generator loss: 0.2351, discriminator loss: -0.0178
+generator loss: 0.1956, discriminator loss: 0.0218
+generator loss: 0.2190, discriminator loss: -0.0021
+generator loss: 0.1754, discriminator loss: 0.0430
+generator loss: 0.2175, discriminator loss: 0.0038
+generator loss: 0.2691, discriminator loss: -0.0464
+generator loss: 0.2472, discriminator loss: -0.0247
+generator loss: 0.2407, discriminator loss: -0.0158
+wgan error: 3.2137
+generator loss: -0.1503, discriminator loss: -0.0338
+generator loss: -0.2044, discriminator loss: 0.0186
+generator loss: -0.1837, discriminator loss: -0.0026
+generator loss: -0.1586, discriminator loss: -0.0314
+generator loss: -0.1180, discriminator loss: -0.0756
+generator loss: -0.1958, discriminator loss: 0.0022
+generator loss: -0.1194, discriminator loss: -0.0760
+generator loss: -0.0786, discriminator loss: -0.1172
+generator loss: -0.1381, discriminator loss: -0.0590
+generator loss: -0.0637, discriminator loss: -0.1366
+wgan error: 2.7677
+(1000, 20, 'Gumbel') 18.9068
+(1000, 20, 'Gumbel') 3.2839 0.9543
+N=1000, p=20, model=Gumbel in done.(7.48 minutes)
+N=1000, p=40, model=Cauchy in progress.
+sample cov error: 3150.4773
+generator loss: 0.0019, discriminator loss: -0.1036
+generator loss: -0.0088, discriminator loss: -0.0953
+generator loss: -0.0255, discriminator loss: -0.0793
+generator loss: -0.0164, discriminator loss: -0.0868
+generator loss: 0.0172, discriminator loss: -0.1101
+generator loss: -0.0360, discriminator loss: -0.0611
+generator loss: -0.0073, discriminator loss: -0.0868
+generator loss: 0.0143, discriminator loss: -0.1192
+generator loss: -0.0691, discriminator loss: -0.0358
+generator loss: -0.0706, discriminator loss: -0.0340
+wgan error: 4.4863
+generator loss: -0.0788, discriminator loss: -0.0916
+generator loss: -0.1113, discriminator loss: -0.0609
+generator loss: -0.0779, discriminator loss: -0.0914
+generator loss: -0.0816, discriminator loss: -0.0912
+generator loss: -0.0759, discriminator loss: -0.0924
+generator loss: -0.0130, discriminator loss: -0.1604
+generator loss: -0.1262, discriminator loss: -0.0444
+generator loss: -0.1069, discriminator loss: -0.0599
+generator loss: -0.0435, discriminator loss: -0.1250
+generator loss: -0.0412, discriminator loss: -0.1302
+wgan error: 3.4301
+generator loss: -0.2864, discriminator loss: -0.1132
+generator loss: -0.2807, discriminator loss: -0.1074
+generator loss: -0.2872, discriminator loss: -0.0978
+generator loss: -0.3357, discriminator loss: -0.0661
+generator loss: -0.3372, discriminator loss: -0.0541
+generator loss: -0.2554, discriminator loss: -0.1272
+generator loss: -0.3433, discriminator loss: -0.0492
+generator loss: -0.2960, discriminator loss: -0.0893
+generator loss: -0.3448, discriminator loss: -0.0476
+generator loss: -0.2681, discriminator loss: -0.1203
+wgan error: 3.1774
+generator loss: 0.2732, discriminator loss: -0.0493
+generator loss: 0.2770, discriminator loss: -0.0573
+generator loss: 0.2323, discriminator loss: -0.0149
+generator loss: 0.3162, discriminator loss: -0.0911
+generator loss: 0.2837, discriminator loss: -0.0605
+generator loss: 0.2511, discriminator loss: -0.0261
+generator loss: 0.3321, discriminator loss: -0.1043
+generator loss: 0.3238, discriminator loss: -0.0953
+generator loss: 0.2746, discriminator loss: -0.0537
+generator loss: 0.3215, discriminator loss: -0.0970
+wgan error: 4.0270
+generator loss: -0.2162, discriminator loss: -0.1650
+generator loss: -0.3368, discriminator loss: -0.0503
+generator loss: -0.2711, discriminator loss: -0.1064
+generator loss: -0.3005, discriminator loss: -0.0833
+generator loss: -0.3296, discriminator loss: -0.0520
+generator loss: -0.3147, discriminator loss: -0.0680
+generator loss: -0.2543, discriminator loss: -0.1212
+generator loss: -0.2542, discriminator loss: -0.1226
+generator loss: -0.2894, discriminator loss: -0.0817
+generator loss: -0.2869, discriminator loss: -0.0909
+wgan error: 4.1123
+generator loss: -0.1869, discriminator loss: -0.0838
+generator loss: -0.1786, discriminator loss: -0.0927
+generator loss: -0.1928, discriminator loss: -0.0779
+generator loss: -0.1706, discriminator loss: -0.0958
+generator loss: -0.1762, discriminator loss: -0.0917
+generator loss: -0.1577, discriminator loss: -0.1045
+generator loss: -0.1690, discriminator loss: -0.0915
+generator loss: -0.1901, discriminator loss: -0.0747
+generator loss: -0.1462, discriminator loss: -0.1219
+generator loss: -0.1068, discriminator loss: -0.1606
+wgan error: 3.0317
+generator loss: 0.0219, discriminator loss: -0.0614
+generator loss: 0.0144, discriminator loss: -0.0543
+generator loss: -0.0004, discriminator loss: -0.0478
+generator loss: 0.0763, discriminator loss: -0.1226
+generator loss: 0.0203, discriminator loss: -0.0679
+generator loss: 0.0389, discriminator loss: -0.0889
+generator loss: -0.0029, discriminator loss: -0.0290
+generator loss: 0.0202, discriminator loss: -0.0601
+generator loss: 0.0793, discriminator loss: -0.1153
+generator loss: 0.0185, discriminator loss: -0.0510
+wgan error: 2.7552
+generator loss: -0.0078, discriminator loss: -0.0959
+generator loss: -0.0091, discriminator loss: -0.1020
+generator loss: -0.0784, discriminator loss: -0.0373
+generator loss: -0.0385, discriminator loss: -0.0797
+generator loss: -0.0505, discriminator loss: -0.0632
+generator loss: -0.0273, discriminator loss: -0.0852
+generator loss: -0.0390, discriminator loss: -0.0741
+generator loss: -0.0817, discriminator loss: -0.0284
+generator loss: -0.0798, discriminator loss: -0.0222
+generator loss: -0.0200, discriminator loss: -0.0829
+wgan error: 3.4163
+generator loss: -0.2033, discriminator loss: -0.1125
+generator loss: -0.2491, discriminator loss: -0.0628
+generator loss: -0.2119, discriminator loss: -0.1053
+generator loss: -0.2175, discriminator loss: -0.0995
+generator loss: -0.2356, discriminator loss: -0.0782
+generator loss: -0.2791, discriminator loss: -0.0376
+generator loss: -0.2034, discriminator loss: -0.1202
+generator loss: -0.2353, discriminator loss: -0.0860
+generator loss: -0.2879, discriminator loss: -0.0357
+generator loss: -0.2940, discriminator loss: -0.0289
+wgan error: 3.8375
+generator loss: -0.2526, discriminator loss: -0.0802
+generator loss: -0.2406, discriminator loss: -0.0902
+generator loss: -0.2844, discriminator loss: -0.0358
+generator loss: -0.2479, discriminator loss: -0.0817
+generator loss: -0.1963, discriminator loss: -0.1250
+generator loss: -0.2505, discriminator loss: -0.0743
+generator loss: -0.2265, discriminator loss: -0.0973
+generator loss: -0.2574, discriminator loss: -0.0499
+generator loss: -0.2134, discriminator loss: -0.0873
+generator loss: -0.2306, discriminator loss: -0.0749
+wgan error: 3.1616
+(1000, 40, 'Cauchy') 3150.4773
+(1000, 40, 'Cauchy') 4.1190 1.0068
+N=1000, p=40, model=Cauchy in done.(7.43 minutes)
+N=1000, p=40, model=Normal in progress.
+sample cov error: 96.4224
+generator loss: -0.1753, discriminator loss: -0.1341
+generator loss: -0.1870, discriminator loss: -0.1236
+generator loss: -0.2026, discriminator loss: -0.1021
+generator loss: -0.1521, discriminator loss: -0.1483
+generator loss: -0.1960, discriminator loss: -0.1067
+generator loss: -0.2139, discriminator loss: -0.0865
+generator loss: -0.1814, discriminator loss: -0.1222
+generator loss: -0.2053, discriminator loss: -0.1008
+generator loss: -0.1899, discriminator loss: -0.1180
+generator loss: -0.1716, discriminator loss: -0.1424
+wgan error: 5.0711
+generator loss: 0.3476, discriminator loss: -0.0936
+generator loss: 0.4114, discriminator loss: -0.1576
+generator loss: 0.3512, discriminator loss: -0.0970
+generator loss: 0.3881, discriminator loss: -0.1354
+generator loss: 0.3644, discriminator loss: -0.1088
+generator loss: 0.3195, discriminator loss: -0.0641
+generator loss: 0.4593, discriminator loss: -0.2044
+generator loss: 0.3573, discriminator loss: -0.1089
+generator loss: 0.3648, discriminator loss: -0.1092
+generator loss: 0.3296, discriminator loss: -0.0723
+wgan error: 6.0492
+generator loss: 0.1140, discriminator loss: -0.1181
+generator loss: 0.0873, discriminator loss: -0.0902
+generator loss: 0.1419, discriminator loss: -0.1472
+generator loss: 0.0929, discriminator loss: -0.1030
+generator loss: 0.0957, discriminator loss: -0.1035
+generator loss: 0.1353, discriminator loss: -0.1407
+generator loss: 0.1684, discriminator loss: -0.1758
+generator loss: 0.0810, discriminator loss: -0.0884
+generator loss: 0.1041, discriminator loss: -0.1141
+generator loss: 0.0954, discriminator loss: -0.0997
+wgan error: 4.5086
+generator loss: -0.1373, discriminator loss: -0.1714
+generator loss: -0.2469, discriminator loss: -0.0607
+generator loss: -0.1588, discriminator loss: -0.1483
+generator loss: -0.1451, discriminator loss: -0.1606
+generator loss: -0.1874, discriminator loss: -0.1189
+generator loss: -0.1877, discriminator loss: -0.1164
+generator loss: -0.2390, discriminator loss: -0.0662
+generator loss: -0.1432, discriminator loss: -0.1632
+generator loss: -0.1504, discriminator loss: -0.1547
+generator loss: -0.2010, discriminator loss: -0.1076
+wgan error: 4.8570
+generator loss: -0.1213, discriminator loss: -0.1094
+generator loss: -0.1141, discriminator loss: -0.1188
+generator loss: -0.0761, discriminator loss: -0.1529
+generator loss: -0.0477, discriminator loss: -0.1826
+generator loss: -0.0884, discriminator loss: -0.1449
+generator loss: -0.1305, discriminator loss: -0.1032
+generator loss: -0.1229, discriminator loss: -0.1131
+generator loss: -0.1132, discriminator loss: -0.1231
+generator loss: -0.1159, discriminator loss: -0.1235
+generator loss: -0.0549, discriminator loss: -0.1802
+wgan error: 4.9462
+generator loss: -0.0069, discriminator loss: -0.0987
+generator loss: 0.0067, discriminator loss: -0.1212
+generator loss: -0.0191, discriminator loss: -0.0919
+generator loss: 0.0109, discriminator loss: -0.1200
+generator loss: 0.0256, discriminator loss: -0.1362
+generator loss: 0.0053, discriminator loss: -0.1180
+generator loss: 0.0103, discriminator loss: -0.1142
+generator loss: 0.0142, discriminator loss: -0.1236
+generator loss: -0.0059, discriminator loss: -0.1057
+generator loss: 0.0660, discriminator loss: -0.1800
+wgan error: 5.7159
+generator loss: 0.2920, discriminator loss: -0.1250
+generator loss: 0.2845, discriminator loss: -0.1107
+generator loss: 0.2671, discriminator loss: -0.0955
+generator loss: 0.2945, discriminator loss: -0.1243
+generator loss: 0.3181, discriminator loss: -0.1450
+generator loss: 0.2449, discriminator loss: -0.0675
+generator loss: 0.3151, discriminator loss: -0.1332
+generator loss: 0.3220, discriminator loss: -0.1419
+generator loss: 0.3228, discriminator loss: -0.1396
+generator loss: 0.3106, discriminator loss: -0.1240
+wgan error: 5.4450
+generator loss: 0.1522, discriminator loss: -0.1701
+generator loss: 0.1647, discriminator loss: -0.1861
+generator loss: 0.0890, discriminator loss: -0.1078
+generator loss: 0.0461, discriminator loss: -0.0663
+generator loss: 0.0950, discriminator loss: -0.1163
+generator loss: 0.0721, discriminator loss: -0.0931
+generator loss: 0.0702, discriminator loss: -0.0909
+generator loss: 0.1409, discriminator loss: -0.1649
+generator loss: 0.1246, discriminator loss: -0.1515
+generator loss: 0.0553, discriminator loss: -0.0791
+wgan error: 5.9549
+generator loss: -0.0028, discriminator loss: -0.1397
+generator loss: -0.0675, discriminator loss: -0.0705
+generator loss: -0.0111, discriminator loss: -0.1231
+generator loss: -0.0018, discriminator loss: -0.1325
+generator loss: -0.0056, discriminator loss: -0.1296
+generator loss: -0.0332, discriminator loss: -0.1025
+generator loss: 0.0318, discriminator loss: -0.1677
+generator loss: -0.0337, discriminator loss: -0.0955
+generator loss: -0.0199, discriminator loss: -0.1109
+generator loss: 0.0093, discriminator loss: -0.1409
+wgan error: 7.2431
+generator loss: 0.3384, discriminator loss: -0.1868
+generator loss: 0.2830, discriminator loss: -0.1293
+generator loss: 0.2548, discriminator loss: -0.1029
+generator loss: 0.3053, discriminator loss: -0.1509
+generator loss: 0.2102, discriminator loss: -0.0581
+generator loss: 0.2821, discriminator loss: -0.1309
+generator loss: 0.2588, discriminator loss: -0.1057
+generator loss: 0.2595, discriminator loss: -0.1035
+generator loss: 0.2727, discriminator loss: -0.1172
+generator loss: 0.2955, discriminator loss: -0.1404
+wgan error: 4.7762
+(1000, 40, 'Normal') 96.4224
+(1000, 40, 'Normal') 4.8363 0.9000
+N=1000, p=40, model=Normal in done.(7.48 minutes)
+N=1000, p=40, model=Gumbel in progress.
+sample cov error: 33.5331
+generator loss: -0.0259, discriminator loss: -0.2271
+generator loss: -0.1664, discriminator loss: -0.0844
+generator loss: -0.1232, discriminator loss: -0.1288
+generator loss: -0.1586, discriminator loss: -0.0991
+generator loss: -0.1467, discriminator loss: -0.1111
+generator loss: -0.0824, discriminator loss: -0.1759
+generator loss: -0.0855, discriminator loss: -0.1705
+generator loss: -0.1105, discriminator loss: -0.1424
+generator loss: -0.1098, discriminator loss: -0.1471
+generator loss: -0.1067, discriminator loss: -0.1432
+wgan error: 3.8756
+generator loss: -0.0712, discriminator loss: -0.1297
+generator loss: -0.0854, discriminator loss: -0.1112
+generator loss: -0.1302, discriminator loss: -0.0688
+generator loss: -0.0829, discriminator loss: -0.1084
+generator loss: -0.1165, discriminator loss: -0.0760
+generator loss: -0.0737, discriminator loss: -0.1199
+generator loss: -0.0892, discriminator loss: -0.1029
+generator loss: -0.0581, discriminator loss: -0.1374
+generator loss: -0.0527, discriminator loss: -0.1443
+generator loss: -0.0688, discriminator loss: -0.1278
+wgan error: 3.7832
+generator loss: -0.1946, discriminator loss: -0.1331
+generator loss: -0.2603, discriminator loss: -0.0663
+generator loss: -0.2556, discriminator loss: -0.0754
+generator loss: -0.1505, discriminator loss: -0.1861
+generator loss: -0.2374, discriminator loss: -0.0898
+generator loss: -0.2517, discriminator loss: -0.0801
+generator loss: -0.2375, discriminator loss: -0.0963
+generator loss: -0.2131, discriminator loss: -0.1198
+generator loss: -0.2036, discriminator loss: -0.1264
+generator loss: -0.1512, discriminator loss: -0.1815
+wgan error: 3.8617
+generator loss: 0.1497, discriminator loss: -0.1102
+generator loss: 0.1343, discriminator loss: -0.0933
+generator loss: 0.1653, discriminator loss: -0.1222
+generator loss: 0.1243, discriminator loss: -0.0816
+generator loss: 0.1514, discriminator loss: -0.1086
+generator loss: 0.1664, discriminator loss: -0.1232
+generator loss: 0.2058, discriminator loss: -0.1641
+generator loss: 0.1748, discriminator loss: -0.1331
+generator loss: 0.1296, discriminator loss: -0.0845
+generator loss: 0.2441, discriminator loss: -0.1989
+wgan error: 4.4797
+generator loss: 0.1358, discriminator loss: -0.1075
+generator loss: 0.1302, discriminator loss: -0.0997
+generator loss: 0.2018, discriminator loss: -0.1755
+generator loss: 0.1628, discriminator loss: -0.1359
+generator loss: 0.1795, discriminator loss: -0.1519
+generator loss: 0.2005, discriminator loss: -0.1731
+generator loss: 0.1475, discriminator loss: -0.1176
+generator loss: 0.1958, discriminator loss: -0.1638
+generator loss: 0.1500, discriminator loss: -0.1235
+generator loss: 0.1271, discriminator loss: -0.1008
+wgan error: 4.0301
+generator loss: -0.1081, discriminator loss: -0.2060
+generator loss: -0.1718, discriminator loss: -0.1414
+generator loss: -0.2056, discriminator loss: -0.1079
+generator loss: -0.1510, discriminator loss: -0.1597
+generator loss: -0.1700, discriminator loss: -0.1388
+generator loss: -0.2315, discriminator loss: -0.0846
+generator loss: -0.1880, discriminator loss: -0.1304
+generator loss: -0.1962, discriminator loss: -0.1193
+generator loss: -0.1753, discriminator loss: -0.1432
+generator loss: -0.1957, discriminator loss: -0.1234
+wgan error: 5.0059
+generator loss: -0.0680, discriminator loss: -0.1332
+generator loss: -0.0297, discriminator loss: -0.1677
+generator loss: -0.0599, discriminator loss: -0.1426
+generator loss: -0.0537, discriminator loss: -0.1500
+generator loss: -0.0264, discriminator loss: -0.1726
+generator loss: -0.1066, discriminator loss: -0.0973
+generator loss: -0.0524, discriminator loss: -0.1501
+generator loss: -0.0724, discriminator loss: -0.1275
+generator loss: -0.0834, discriminator loss: -0.1198
+generator loss: -0.0620, discriminator loss: -0.1413
+wgan error: 3.7579
+generator loss: -0.3708, discriminator loss: -0.1765
+generator loss: -0.4364, discriminator loss: -0.1094
+generator loss: -0.4227, discriminator loss: -0.1238
+generator loss: -0.4561, discriminator loss: -0.0882
+generator loss: -0.4180, discriminator loss: -0.1294
+generator loss: -0.4728, discriminator loss: -0.0741
+generator loss: -0.4134, discriminator loss: -0.1314
+generator loss: -0.4180, discriminator loss: -0.1285
+generator loss: -0.3798, discriminator loss: -0.1641
+generator loss: -0.3952, discriminator loss: -0.1522
+wgan error: 4.5892
+generator loss: -0.1619, discriminator loss: -0.1537
+generator loss: -0.1613, discriminator loss: -0.1553
+generator loss: -0.1986, discriminator loss: -0.1207
+generator loss: -0.1984, discriminator loss: -0.1197
+generator loss: -0.1699, discriminator loss: -0.1512
+generator loss: -0.1816, discriminator loss: -0.1294
+generator loss: -0.1466, discriminator loss: -0.1751
+generator loss: -0.2464, discriminator loss: -0.0729
+generator loss: -0.1880, discriminator loss: -0.1331
+generator loss: -0.2478, discriminator loss: -0.0734
+wgan error: 4.7305
+generator loss: -0.0707, discriminator loss: -0.1499
+generator loss: -0.1306, discriminator loss: -0.0892
+generator loss: -0.0544, discriminator loss: -0.1642
+generator loss: -0.0643, discriminator loss: -0.1532
+generator loss: -0.0664, discriminator loss: -0.1529
+generator loss: -0.0514, discriminator loss: -0.1609
+generator loss: -0.0204, discriminator loss: -0.1949
+generator loss: -0.0810, discriminator loss: -0.1348
+generator loss: -0.0882, discriminator loss: -0.1290
+generator loss: -0.0704, discriminator loss: -0.1478
+wgan error: 3.9243
+(1000, 40, 'Gumbel') 33.5331
+(1000, 40, 'Gumbel') 4.2334 0.5252
+N=1000, p=40, model=Gumbel in done.(7.51 minutes)
+N=5000, p=10, model=Cauchy in progress.
+sample cov error: 1018.1120
+generator loss: -0.5898, discriminator loss: -0.0529
+generator loss: -0.6233, discriminator loss: -0.0271
+generator loss: -0.6107, discriminator loss: -0.0152
+generator loss: -0.5946, discriminator loss: -0.0190
+generator loss: -0.6122, discriminator loss: -0.0045
+generator loss: -0.6653, discriminator loss: 0.0561
+generator loss: -0.6228, discriminator loss: -0.0034
+generator loss: -0.6562, discriminator loss: 0.0187
+generator loss: -0.7031, discriminator loss: 0.0285
+generator loss: -0.6083, discriminator loss: -0.0431
+wgan error: 2.8822
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: -0.0015, discriminator loss: 0.0015
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: -0.0003, discriminator loss: 0.0003
+generator loss: -0.0003, discriminator loss: 0.0003
+generator loss: -0.0001, discriminator loss: 0.0001
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: -0.0001, discriminator loss: 0.0001
+wgan error: 581.9886
+generator loss: 0.1697, discriminator loss: 0.0257
+generator loss: 0.2824, discriminator loss: -0.0408
+generator loss: 0.2298, discriminator loss: 0.0159
+generator loss: 0.2741, discriminator loss: -0.0320
+generator loss: 0.2927, discriminator loss: -0.0141
+generator loss: 0.2584, discriminator loss: 0.0010
+generator loss: 0.2597, discriminator loss: -0.0009
+generator loss: 0.3115, discriminator loss: 0.0118
+generator loss: 0.3569, discriminator loss: -0.0386
+generator loss: 0.2720, discriminator loss: -0.0099
+wgan error: 3.5453
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: -0.0002, discriminator loss: 0.0002
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: -0.0002, discriminator loss: 0.0001
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+wgan error: 579.6896
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+wgan error: 1.7551
+generator loss: -0.5697, discriminator loss: 0.0184
+generator loss: -0.6019, discriminator loss: -0.0932
+generator loss: -0.7506, discriminator loss: 0.0376
+generator loss: -0.6408, discriminator loss: 0.0611
+generator loss: -0.6314, discriminator loss: 0.0146
+generator loss: -0.6301, discriminator loss: -0.0766
+generator loss: -0.6089, discriminator loss: -0.0103
+generator loss: -0.5808, discriminator loss: -0.0085
+generator loss: -0.6641, discriminator loss: 0.0202
+generator loss: -0.6256, discriminator loss: -0.0375
+wgan error: 6.1716
+generator loss: -0.4073, discriminator loss: -0.0044
+generator loss: -0.3377, discriminator loss: -0.0150
+generator loss: -0.3510, discriminator loss: -0.0285
+generator loss: -0.3640, discriminator loss: -0.0536
+generator loss: -0.2546, discriminator loss: -0.0565
+generator loss: -0.3803, discriminator loss: -0.0132
+generator loss: -0.4678, discriminator loss: 0.0220
+generator loss: -0.4113, discriminator loss: 0.0034
+generator loss: -0.3873, discriminator loss: -0.0171
+generator loss: -0.4084, discriminator loss: -0.0316
+wgan error: 2.9827
+generator loss: -0.2773, discriminator loss: -0.0345
+generator loss: -0.3008, discriminator loss: -0.0034
+generator loss: -0.4337, discriminator loss: -0.0264
+generator loss: -0.2386, discriminator loss: -0.0103
+generator loss: -0.3861, discriminator loss: -0.0536
+generator loss: -0.4029, discriminator loss: -0.0074
+generator loss: -0.1719, discriminator loss: -0.0219
+generator loss: -0.4048, discriminator loss: -0.0398
+generator loss: -0.4202, discriminator loss: -0.0150
+generator loss: -0.1740, discriminator loss: -0.0090
+wgan error: 5.8475
+generator loss: -0.0001, discriminator loss: -0.0002
+generator loss: -0.0002, discriminator loss: -0.0013
+generator loss: -0.0001, discriminator loss: -0.0011
+generator loss: -0.0001, discriminator loss: -0.0008
+generator loss: -0.0000, discriminator loss: -0.0011
+generator loss: -0.0001, discriminator loss: -0.0009
+generator loss: -0.0001, discriminator loss: -0.0014
+generator loss: -0.0046, discriminator loss: 0.0029
+generator loss: -0.0002, discriminator loss: -0.0012
+generator loss: -0.0005, discriminator loss: -0.0009
+wgan error: 185.0503
+generator loss: 0.3394, discriminator loss: -0.0283
+generator loss: 0.3160, discriminator loss: 0.0106
+generator loss: 0.4159, discriminator loss: -0.0069
+generator loss: 0.4211, discriminator loss: -0.0463
+generator loss: 0.3263, discriminator loss: 0.0101
+generator loss: 0.2594, discriminator loss: -0.0188
+generator loss: 0.2569, discriminator loss: 0.0010
+generator loss: 0.3105, discriminator loss: -0.0094
+generator loss: 0.3234, discriminator loss: -0.0337
+generator loss: 0.1934, discriminator loss: 0.0207
+wgan error: 2.9824
+(5000, 10, 'Cauchy') 1018.1120
+(5000, 10, 'Cauchy') 137.2895 228.1719
+N=5000, p=10, model=Cauchy in done.(38.64 minutes)
+N=5000, p=10, model=Normal in progress.
+sample cov error: 21.9613
+generator loss: 0.6234, discriminator loss: -0.0829
+generator loss: 0.5718, discriminator loss: -0.0345
+generator loss: 0.6243, discriminator loss: -0.0789
+generator loss: 0.6254, discriminator loss: -0.0623
+generator loss: 0.6500, discriminator loss: -0.0975
+generator loss: 0.6604, discriminator loss: -0.0942
+generator loss: 0.6769, discriminator loss: -0.1157
+generator loss: 0.6465, discriminator loss: -0.0754
+generator loss: 0.6500, discriminator loss: -0.0868
+generator loss: 0.6768, discriminator loss: -0.0943
+wgan error: 7.7297
+generator loss: 0.6907, discriminator loss: -0.1162
+generator loss: 0.7691, discriminator loss: -0.0648
+generator loss: 0.9256, discriminator loss: -0.0994
+generator loss: 0.8377, discriminator loss: -0.0439
+generator loss: 0.7862, discriminator loss: -0.1139
+generator loss: 0.7267, discriminator loss: -0.1090
+generator loss: 0.7133, discriminator loss: -0.1008
+generator loss: 0.7758, discriminator loss: -0.0705
+generator loss: 0.8872, discriminator loss: -0.1037
+generator loss: 0.7711, discriminator loss: -0.0765
+wgan error: 5.2498
+generator loss: 0.0537, discriminator loss: -0.1290
+generator loss: -0.0163, discriminator loss: -0.0653
+generator loss: -0.0130, discriminator loss: -0.0820
+generator loss: -0.0181, discriminator loss: -0.0752
+generator loss: -0.0157, discriminator loss: -0.0716
+generator loss: 0.0229, discriminator loss: -0.1128
+generator loss: -0.0156, discriminator loss: -0.0696
+generator loss: 0.0265, discriminator loss: -0.1101
+generator loss: 0.0240, discriminator loss: -0.1048
+generator loss: -0.0190, discriminator loss: -0.0579
+wgan error: 2.4033
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+generator loss: 0.0000, discriminator loss: 0.0000
+wgan error: 96.1321
+generator loss: 0.6455, discriminator loss: -0.0682
+generator loss: 0.7101, discriminator loss: -0.1127
+generator loss: 0.7271, discriminator loss: -0.1079
+generator loss: 0.7001, discriminator loss: -0.0691
+generator loss: 0.6565, discriminator loss: -0.0272
+generator loss: 0.6855, discriminator loss: -0.0776
+generator loss: 0.6621, discriminator loss: -0.0423
+generator loss: 0.7952, discriminator loss: -0.1622
+generator loss: 0.7119, discriminator loss: -0.0788
+generator loss: 0.7263, discriminator loss: -0.0939
+wgan error: 3.5639
+generator loss: 0.0140, discriminator loss: -0.0424
+generator loss: 0.0885, discriminator loss: -0.0859
+generator loss: 0.1214, discriminator loss: -0.0900
+generator loss: 0.1753, discriminator loss: -0.1400
+generator loss: 0.1085, discriminator loss: -0.0753
+generator loss: 0.1006, discriminator loss: -0.0955
+generator loss: 0.0938, discriminator loss: -0.0706
+generator loss: 0.1156, discriminator loss: -0.0751
+generator loss: 0.0654, discriminator loss: -0.0464
+generator loss: 0.0766, discriminator loss: -0.0573
+wgan error: 7.8000
+generator loss: 0.1786, discriminator loss: -0.0617
+generator loss: 0.1880, discriminator loss: -0.0684
+generator loss: 0.1693, discriminator loss: -0.0798
+generator loss: 0.1898, discriminator loss: -0.0811
+generator loss: 0.1808, discriminator loss: -0.0930
+generator loss: 0.2043, discriminator loss: -0.0884
+generator loss: 0.2291, discriminator loss: -0.0799
+generator loss: 0.1802, discriminator loss: -0.0751
+generator loss: 0.2740, discriminator loss: -0.1133
+generator loss: 0.2177, discriminator loss: -0.0814
+wgan error: 4.1963
+generator loss: -0.3445, discriminator loss: -0.0715
+generator loss: -0.3591, discriminator loss: -0.0590
+generator loss: -0.2751, discriminator loss: -0.1426
+generator loss: -0.3756, discriminator loss: -0.0587
+generator loss: -0.3281, discriminator loss: -0.0968
+generator loss: -0.3891, discriminator loss: -0.0605
+generator loss: -0.4065, discriminator loss: -0.0883
+generator loss: -0.3873, discriminator loss: -0.0793
+generator loss: -0.3327, discriminator loss: -0.0789
+generator loss: -0.3439, discriminator loss: -0.0515
+wgan error: 5.3121
+generator loss: -0.3170, discriminator loss: -0.0710
+generator loss: -0.2184, discriminator loss: -0.0821
+generator loss: -0.2407, discriminator loss: -0.0740
+generator loss: -0.3496, discriminator loss: -0.1113
+generator loss: -0.4282, discriminator loss: -0.0810
+generator loss: -0.4171, discriminator loss: -0.0981
+generator loss: -0.4383, discriminator loss: -0.0735
+generator loss: -0.4180, discriminator loss: -0.0743
+generator loss: -0.2947, discriminator loss: -0.0783
+generator loss: -0.1730, discriminator loss: -0.0783
+wgan error: 10.5345
+generator loss: 0.2092, discriminator loss: -0.1150
+generator loss: 0.1827, discriminator loss: -0.0818
+generator loss: 0.2046, discriminator loss: -0.0834
+generator loss: 0.2448, discriminator loss: -0.0799
+generator loss: 0.1862, discriminator loss: -0.0751
+generator loss: 0.2139, discriminator loss: -0.0960
+generator loss: 0.2372, discriminator loss: -0.0920
+generator loss: 0.2076, discriminator loss: -0.0981
+generator loss: 0.1839, discriminator loss: -0.1178
+generator loss: 0.1401, discriminator loss: -0.0569
+wgan error: 4.3219
+(5000, 10, 'Normal') 21.9613
+(5000, 10, 'Normal') 14.7244 27.2313
+N=5000, p=10, model=Normal in done.(46.52 minutes)
+N=5000, p=10, model=Gumbel in progress.
+sample cov error: 10.6381
+generator loss: 0.2595, discriminator loss: -0.0881
+generator loss: 0.4551, discriminator loss: -0.0514
+generator loss: 0.2822, discriminator loss: -0.0457
+generator loss: 0.2547, discriminator loss: -0.0378
+generator loss: 0.3954, discriminator loss: -0.0255
+generator loss: 0.2132, discriminator loss: -0.0720
+generator loss: 0.4857, discriminator loss: -0.0577
+generator loss: 0.2802, discriminator loss: -0.0735
+generator loss: 0.2063, discriminator loss: -0.0505
+generator loss: 0.4810, discriminator loss: -0.0595
+wgan error: 0.9943
+generator loss: -0.4869, discriminator loss: -0.0984
+generator loss: -0.5333, discriminator loss: -0.0382
+generator loss: -0.5268, discriminator loss: -0.0414
+generator loss: -0.5017, discriminator loss: -0.0855
+generator loss: -0.5349, discriminator loss: -0.0370
+generator loss: -0.5158, discriminator loss: -0.0469
+generator loss: -0.4980, discriminator loss: -0.0866
+generator loss: -0.4956, discriminator loss: -0.0610
+generator loss: -0.5170, discriminator loss: -0.0514
+generator loss: -0.5015, discriminator loss: -0.0840
+wgan error: 1.5011
+generator loss: 0.7425, discriminator loss: -0.0640
+generator loss: 0.9806, discriminator loss: -0.0579
+generator loss: 1.0243, discriminator loss: -0.0680
+generator loss: 0.7266, discriminator loss: -0.0631
+generator loss: 0.9991, discriminator loss: -0.0617
+generator loss: 0.9954, discriminator loss: -0.0474
+generator loss: 0.7543, discriminator loss: -0.0817
+generator loss: 1.0571, discriminator loss: -0.0735
+generator loss: 0.9289, discriminator loss: -0.0480
+generator loss: 0.7382, discriminator loss: -0.0831
+wgan error: 1.6843
+generator loss: -0.2429, discriminator loss: -0.0524
+generator loss: -0.4551, discriminator loss: -0.1094
+generator loss: -0.4450, discriminator loss: -0.0242
+generator loss: -0.2077, discriminator loss: -0.0473
+generator loss: -0.4542, discriminator loss: -0.1001
+generator loss: -0.3970, discriminator loss: -0.0366
+generator loss: -0.2020, discriminator loss: -0.0555
+generator loss: -0.4733, discriminator loss: -0.0784
+generator loss: -0.4089, discriminator loss: -0.0338
+generator loss: -0.2219, discriminator loss: -0.0523
+wgan error: 1.5490
+generator loss: 0.3493, discriminator loss: -0.0531
+generator loss: 0.3094, discriminator loss: -0.0722
+generator loss: 0.3469, discriminator loss: -0.0594
+generator loss: 0.2869, discriminator loss: -0.0654
+generator loss: 0.2167, discriminator loss: -0.0409
+generator loss: 0.4272, discriminator loss: -0.0777
+generator loss: 0.2641, discriminator loss: -0.0872
+generator loss: 0.3825, discriminator loss: -0.0661
+generator loss: 0.3253, discriminator loss: -0.0776
+generator loss: 0.2402, discriminator loss: -0.0490
+wgan error: 2.8110
+generator loss: -0.1858, discriminator loss: -0.0981
+generator loss: -0.3969, discriminator loss: -0.0696
+generator loss: -0.4769, discriminator loss: -0.0478
+generator loss: -0.2384, discriminator loss: -0.0858
+generator loss: -0.3697, discriminator loss: -0.0666
+generator loss: -0.4416, discriminator loss: -0.0797
+generator loss: -0.2901, discriminator loss: -0.0671
+generator loss: -0.3745, discriminator loss: -0.0316
+generator loss: -0.3916, discriminator loss: -0.1217
+generator loss: -0.3543, discriminator loss: -0.0462
+wgan error: 0.9377
+generator loss: 0.8488, discriminator loss: -0.0511
+generator loss: 0.8140, discriminator loss: -0.0345
+generator loss: 0.9510, discriminator loss: -0.0998
+generator loss: 0.9117, discriminator loss: -0.0876
+generator loss: 0.8410, discriminator loss: -0.0692
+generator loss: 0.8457, discriminator loss: -0.0351
+generator loss: 0.9158, discriminator loss: -0.0420
+generator loss: 0.8614, discriminator loss: -0.0722
+generator loss: 0.8690, discriminator loss: -0.0446
+generator loss: 0.9052, discriminator loss: -0.0425
+wgan error: 2.8885
+generator loss: -0.4437, discriminator loss: -0.0788
+generator loss: -0.4764, discriminator loss: -0.0203
+generator loss: -0.2638, discriminator loss: -0.0589
+generator loss: -0.4380, discriminator loss: -0.0762
+generator loss: -0.4325, discriminator loss: -0.0319
+generator loss: -0.2975, discriminator loss: -0.0572
+generator loss: -0.4577, discriminator loss: -0.0661
+generator loss: -0.4587, discriminator loss: -0.0236
+generator loss: -0.2511, discriminator loss: -0.0571
+generator loss: -0.4289, discriminator loss: -0.0889
+wgan error: 3.7058
+generator loss: 0.9988, discriminator loss: -0.0668
+generator loss: 0.8468, discriminator loss: -0.1196
+generator loss: 0.7257, discriminator loss: -0.0108
+generator loss: 1.0213, discriminator loss: -0.0850
+generator loss: 0.8135, discriminator loss: -0.0775
+generator loss: 0.7658, discriminator loss: -0.0204
+generator loss: 1.0001, discriminator loss: -0.0668
+generator loss: 0.7885, discriminator loss: -0.0641
+generator loss: 0.7983, discriminator loss: -0.0301
+generator loss: 0.9967, discriminator loss: -0.0660
+wgan error: 1.4117
+generator loss: -0.2474, discriminator loss: -0.0800
+generator loss: -0.3744, discriminator loss: -0.1105
+generator loss: -0.4118, discriminator loss: -0.1045
+generator loss: -0.4224, discriminator loss: -0.0572
+generator loss: 0.0000, discriminator loss: -0.0686
+generator loss: 0.0000, discriminator loss: -0.0779
+generator loss: -0.0519, discriminator loss: -0.0642
+generator loss: -0.3490, discriminator loss: -0.0968
+generator loss: -0.3615, discriminator loss: -0.1161
+generator loss: -0.2978, discriminator loss: -0.0420
+wgan error: 0.9984
+(5000, 10, 'Gumbel') 10.6381
+(5000, 10, 'Gumbel') 1.8482 0.9037
+N=5000, p=10, model=Gumbel in done.(51.93 minutes)
